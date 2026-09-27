@@ -1,0 +1,33 @@
+{
+  "id": "sample-event",
+  "event": {
+    "title": "サンプル撮影会",
+    "date": "2026-10-01",
+    "venue": "サンプル会場"
+  },
+  "rule": {
+    "shoot1": 20,
+    "move1": 5,
+    "shoot2": 20,
+    "move2": 5,
+    "cheki": 20
+  },
+  "groups": {
+    "A": {
+      "times": [
+        {"label": "1部", "start": "10:00", "end": "11:10"}
+      ],
+      "performers": [
+        {
+          "name": "サンプル出演者",
+          "performerId": "sample-performer",
+          "sessions": [
+            {"a1": "野外1", "a2": "屋内9", "cheki": true}
+          ]
+        }
+      ]
+    }
+  },
+  "maps": {},
+  "timetableImages": {}
+}

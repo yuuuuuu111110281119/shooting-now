@@ -1,0 +1,3097 @@
+{
+  "event": {
+    "title": "近代麻雀水着祭。",
+    "date": "2026-09-30",
+    "displayDate": "9/30 Wed.",
+    "venue": ""
+  },
+  "rule": {
+    "shoot1": 20,
+    "move1": 5,
+    "shoot2": 20,
+    "move2": 5,
+    "cheki": 20
+  },
+  "groups": {
+    "A": {
+      "times": [
+        {
+          "start": "09:50",
+          "end": "11:00",
+          "label": "1部"
+        },
+        {
+          "start": "12:30",
+          "end": "13:40",
+          "label": "2部"
+        },
+        {
+          "start": "15:10",
+          "end": "16:20",
+          "label": "3部"
+        }
+      ],
+      "performers": [
+        {
+          "name": "ちとせよしの",
+          "sessions": [
+            null,
+            {
+              "a1": "野外8",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "ちとせよしの"
+        },
+        {
+          "name": "三葉ちはる",
+          "sessions": [
+            null,
+            {
+              "a1": "野外5",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外8",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "三葉ちはる"
+        },
+        {
+          "name": "吉澤友貴",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外8",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "吉澤友貴"
+        },
+        {
+          "name": "愛すりあ",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "野外8",
+              "cheki": true
+            },
+            null
+          ],
+          "performerId": "愛すりあ"
+        },
+        {
+          "name": "小松空",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "野外8",
+              "cheki": true
+            },
+            null
+          ],
+          "performerId": "小松空"
+        },
+        {
+          "name": "犬乃かりん",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "犬乃かりん"
+        },
+        {
+          "name": "うたたねゆい",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "うたたねゆい"
+        },
+        {
+          "name": "葵つむぎ",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "葵つむぎ"
+        },
+        {
+          "name": "まいかニャーン！",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "まいかニャーン！"
+        },
+        {
+          "name": "ゆめみあすか",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "ゆめみあすか"
+        },
+        {
+          "name": "泉水",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "泉水"
+        },
+        {
+          "name": "まい",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "まい"
+        },
+        {
+          "name": "森本栞菜",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "森本栞菜"
+        },
+        {
+          "name": "琴吹ゆず",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "琴吹ゆず"
+        },
+        {
+          "name": "南乃ゆき",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "南乃ゆき"
+        },
+        {
+          "name": "神志名和音",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "神志名和音"
+        },
+        {
+          "name": "有栖かえで",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "有栖かえで"
+        },
+        {
+          "name": "香野子",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "香野子"
+        },
+        {
+          "name": "宝来こいの",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "宝来こいの"
+        },
+        {
+          "name": "HANA",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "hana"
+        },
+        {
+          "name": "ミツキルリ",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "ミツキルリ"
+        },
+        {
+          "name": "白澤のあ",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "白澤のあ"
+        },
+        {
+          "name": "天乃くるる",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "天乃くるる"
+        },
+        {
+          "name": "ゴゴノコトコ",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "ゴゴノコトコ"
+        },
+        {
+          "name": "チャンバク",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "チャンバク"
+        },
+        {
+          "name": "蘭撤染みるも",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "蘭撤染みるも"
+        },
+        {
+          "name": "皆本しいね",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "皆本しいね"
+        },
+        {
+          "name": "七瀬りん",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "七瀬りん"
+        },
+        {
+          "name": "鳴海空良",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "鳴海空良"
+        },
+        {
+          "name": "さな",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "さな"
+        },
+        {
+          "name": "まお",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "まお"
+        },
+        {
+          "name": "桜愛結",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "桜愛結"
+        },
+        {
+          "name": "天菱りんね",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "天菱りんね"
+        },
+        {
+          "name": "森田梨音",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "森田梨音"
+        },
+        {
+          "name": "姫宮もか",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "姫宮もか"
+        },
+        {
+          "name": "広岡りん",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "広岡りん"
+        }
+      ]
+    },
+    "B": {
+      "times": [
+        {
+          "start": "10:15",
+          "end": "11:25",
+          "label": "1部"
+        },
+        {
+          "start": "12:55",
+          "end": "14:05",
+          "label": "2部"
+        },
+        {
+          "start": "15:35",
+          "end": "16:45",
+          "label": "3部"
+        }
+      ],
+      "performers": [
+        {
+          "name": "八木奈々",
+          "sessions": [
+            {
+              "a1": "屋内11",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            null,
+            {
+              "a1": "野外8",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "八木奈々"
+        },
+        {
+          "name": "白上咲花",
+          "sessions": [
+            {
+              "a1": "屋内11",
+              "a2": "野外8",
+              "cheki": true
+            },
+            null,
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "白上咲花"
+        },
+        {
+          "name": "清宮仁愛",
+          "sessions": [
+            {
+              "a1": "屋内11",
+              "a2": "野外8",
+              "cheki": true
+            },
+            null,
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "清宮仁愛"
+        },
+        {
+          "name": "桃園玲奈",
+          "sessions": [
+            {
+              "a1": "屋内11",
+              "a2": "野外8",
+              "cheki": true
+            },
+            null,
+            {
+              "a1": "野外3",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "桃園玲奈"
+        },
+        {
+          "name": "天神羽衣",
+          "sessions": [
+            null,
+            {
+              "a1": "野外6",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "天神羽衣"
+        },
+        {
+          "name": "いち花",
+          "sessions": [
+            null,
+            {
+              "a1": "野外6",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "いち花"
+        },
+        {
+          "name": "夏空ゆか",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "夏空ゆか"
+        },
+        {
+          "name": "星宮あんな",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "星宮あんな"
+        },
+        {
+          "name": "水上涼菜",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "水上涼菜"
+        },
+        {
+          "name": "高坂琴水",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "高坂琴水"
+        },
+        {
+          "name": "冬音ゆきの",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "冬音ゆきの"
+        },
+        {
+          "name": "花守雛",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "花守雛"
+        },
+        {
+          "name": "聖杏華",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "聖杏華"
+        },
+        {
+          "name": "水瀬おと",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "水瀬おと"
+        },
+        {
+          "name": "飛鳥ひな",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "飛鳥ひな"
+        },
+        {
+          "name": "猫乃みこ",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "猫乃みこ"
+        },
+        {
+          "name": "新名まひろ",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "新名まひろ"
+        },
+        {
+          "name": "谷優里",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "谷優里"
+        },
+        {
+          "name": "藍瀬ゆき",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "藍瀬ゆき"
+        },
+        {
+          "name": "愛瀬叶らむ",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "愛瀬叶らむ"
+        },
+        {
+          "name": "望月なぎ",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "望月なぎ"
+        },
+        {
+          "name": "羽原ミ夏",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "羽原ミ夏"
+        },
+        {
+          "name": "夢野なの",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "夢野なの"
+        },
+        {
+          "name": "島早ほの花",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "島早ほの花"
+        },
+        {
+          "name": "鈴音かな",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "鈴音かな"
+        },
+        {
+          "name": "輝星",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "輝星"
+        },
+        {
+          "name": "ちゃき",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "ちゃき"
+        },
+        {
+          "name": "あっす〜",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "あっす〜"
+        },
+        {
+          "name": "おいもちゃん",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "おいもちゃん"
+        },
+        {
+          "name": "もちのあん",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "もちのあん"
+        },
+        {
+          "name": "そると",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "そると"
+        },
+        {
+          "name": "れんふぁ",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "れんふぁ"
+        },
+        {
+          "name": "はるか",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "はるか"
+        },
+        {
+          "name": "あむち",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "あむち"
+        },
+        {
+          "name": "ひなぴ",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "ひなぴ"
+        },
+        {
+          "name": "Lucy",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "lucy"
+        },
+        {
+          "name": "ばぶみもえ",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "ばぶみもえ"
+        },
+        {
+          "name": "ことりちゃん",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "ことりちゃん"
+        }
+      ]
+    },
+    "C": {
+      "times": [
+        {
+          "start": "10:40",
+          "end": "11:50",
+          "label": "1部"
+        },
+        {
+          "start": "13:20",
+          "end": "14:30",
+          "label": "2部"
+        },
+        {
+          "start": "16:00",
+          "end": "17:10",
+          "label": "3部"
+        }
+      ],
+      "performers": [
+        {
+          "name": "安達夕莉",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            null
+          ],
+          "performerId": "安達夕莉"
+        },
+        {
+          "name": "純白彩永",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            null
+          ],
+          "performerId": "純白彩永"
+        },
+        {
+          "name": "新川空",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            null
+          ],
+          "performerId": "新川空"
+        },
+        {
+          "name": "浜辺やよい",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            null
+          ],
+          "performerId": "浜辺やよい"
+        },
+        {
+          "name": "弥生みづき",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "弥生みづき"
+        },
+        {
+          "name": "まいか",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "まいか"
+        },
+        {
+          "name": "かな",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "かな"
+        },
+        {
+          "name": "AOI",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "aoi"
+        },
+        {
+          "name": "OSUZU",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "osuzu"
+        },
+        {
+          "name": "REI",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "rei"
+        },
+        {
+          "name": "Lilica",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "lilica"
+        },
+        {
+          "name": "知念佑",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "知念佑"
+        },
+        {
+          "name": "尊みを感じて桜井",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "尊みを感じて桜井"
+        },
+        {
+          "name": "花乃衣美優",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "花乃衣美優"
+        },
+        {
+          "name": "蒼井ハル",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "蒼井ハル"
+        },
+        {
+          "name": "しの",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "しの"
+        },
+        {
+          "name": "桜りおん",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "桜りおん"
+        },
+        {
+          "name": "愛Ris",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "愛ris"
+        },
+        {
+          "name": "ユナ",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "ユナ"
+        },
+        {
+          "name": "片岡未優",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "片岡未優"
+        },
+        {
+          "name": "前川綾音",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "前川綾音"
+        },
+        {
+          "name": "碧羽なず",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "碧羽なず"
+        },
+        {
+          "name": "あみるん",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "あみるん"
+        },
+        {
+          "name": "治癒ちゃん",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "治癒ちゃん"
+        },
+        {
+          "name": "宝桜那",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "宝桜那"
+        },
+        {
+          "name": "竹下優里",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "竹下優里"
+        },
+        {
+          "name": "本多もか",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "本多もか"
+        },
+        {
+          "name": "あずきあず",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "あずきあず"
+        },
+        {
+          "name": "田島怜華",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "田島怜華"
+        },
+        {
+          "name": "藤田芽愛",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "藤田芽愛"
+        },
+        {
+          "name": "丸山ナナ子",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "丸山ナナ子"
+        },
+        {
+          "name": "百田桜子",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "百田桜子"
+        },
+        {
+          "name": "不思議乃あむね",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "不思議乃あむね"
+        },
+        {
+          "name": "MiNO",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "mino"
+        }
+      ]
+    },
+    "D": {
+      "times": [
+        {
+          "start": "11:05",
+          "end": "12:15",
+          "label": "1部"
+        },
+        {
+          "start": "13:45",
+          "end": "14:55",
+          "label": "2部"
+        },
+        {
+          "start": "16:25",
+          "end": "17:35",
+          "label": "3部"
+        }
+      ],
+      "performers": [
+        {
+          "name": "伊藤舞雪",
+          "sessions": [
+            null,
+            {
+              "a1": "野外3",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "伊藤舞雪"
+        },
+        {
+          "name": "天宮花南",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            null
+          ],
+          "performerId": "天宮花南"
+        },
+        {
+          "name": "五条恋",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            null
+          ],
+          "performerId": "五条恋"
+        },
+        {
+          "name": "松永あかり",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            null
+          ],
+          "performerId": "松永あかり"
+        },
+        {
+          "name": "白羅冬萌",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "白羅冬萌"
+        },
+        {
+          "name": "佐野なぎさ",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "佐野なぎさ"
+        },
+        {
+          "name": "篠宮なほ",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "篠宮なほ"
+        },
+        {
+          "name": "佐々木ちょこ",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "佐々木ちょこ"
+        },
+        {
+          "name": "辻優衣",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "辻優衣"
+        },
+        {
+          "name": "七瀬みるあ",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "七瀬みるあ"
+        },
+        {
+          "name": "石田萌依",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "石田萌依"
+        },
+        {
+          "name": "優木萌々花",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "優木萌々花"
+        },
+        {
+          "name": "遠藤えみり",
+          "sessions": [
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            }
+          ],
+          "performerId": "遠藤えみり"
+        },
+        {
+          "name": "熊野りり",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "熊野りり"
+        },
+        {
+          "name": "熊野みみ",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "熊野みみ"
+        },
+        {
+          "name": "美波のあ",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "美波のあ"
+        },
+        {
+          "name": "苺ねむ",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "苺ねむ"
+        },
+        {
+          "name": "姫宮しえる",
+          "sessions": [
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            },
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "姫宮しえる"
+        },
+        {
+          "name": "夏宮みずほ",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "夏宮みずほ"
+        },
+        {
+          "name": "甘野ななみ",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "甘野ななみ"
+        },
+        {
+          "name": "筒井ほなみ",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "筒井ほなみ"
+        },
+        {
+          "name": "祭崎のどか",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内10",
+              "cheki": true
+            }
+          ],
+          "performerId": "祭崎のどか"
+        },
+        {
+          "name": "水那澄ひつぎ",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "水那澄ひつぎ"
+        },
+        {
+          "name": "羽月みう",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "羽月みう"
+        },
+        {
+          "name": "久東りか",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "久東りか"
+        },
+        {
+          "name": "霞音あやな",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "霞音あやな"
+        },
+        {
+          "name": "カコミライ",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "カコミライ"
+        },
+        {
+          "name": "浦丸ゆうか",
+          "sessions": [
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            },
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            }
+          ],
+          "performerId": "浦丸ゆうか"
+        },
+        {
+          "name": "池田かのん",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "池田かのん"
+        },
+        {
+          "name": "白石なこ",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "白石なこ"
+        },
+        {
+          "name": "白瀬由佳",
+          "sessions": [
+            {
+              "a1": "野外5",
+              "a2": "屋内9",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外2",
+              "a2": "野外8",
+              "cheki": true
+            }
+          ],
+          "performerId": "白瀬由佳"
+        },
+        {
+          "name": "美波那緒",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "美波那緒"
+        },
+        {
+          "name": "白石萌衣",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "白石萌衣"
+        },
+        {
+          "name": "逢坂あい",
+          "sessions": [
+            {
+              "a1": "野外6",
+              "a2": "屋内11",
+              "cheki": true
+            },
+            {
+              "a1": "野外3",
+              "a2": "野外7",
+              "cheki": true
+            },
+            {
+              "a1": "野外4",
+              "a2": "屋内9",
+              "cheki": true
+            }
+          ],
+          "performerId": "逢坂あい"
+        }
+      ]
+    }
+  },
+  "maps": {
+    "outdoor": {
+      "image": "assets/map-outdoor.webp",
+      "areas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "label": "野外",
+      "coords": {
+        "1": [
+          29,
+          22
+        ],
+        "2": [
+          49,
+          33
+        ],
+        "3": [
+          69,
+          33
+        ],
+        "4": [
+          62,
+          58
+        ],
+        "5": [
+          47,
+          64
+        ],
+        "6": [
+          31,
+          60
+        ],
+        "7": [
+          55,
+          78
+        ],
+        "8": [
+          50,
+          85
+        ]
+      }
+    },
+    "indoor": {
+      "image": "assets/map-indoor.webp",
+      "areas": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "label": "屋内",
+      "coords": {
+        "9": [
+          67,
+          35
+        ],
+        "10": [
+          25,
+          16
+        ],
+        "11": [
+          23,
+          55
+        ],
+        "12": [
+          47,
+          91
+        ]
+      }
+    }
+  },
+  "id": "kinma-2026-09-30",
+  "venue": "",
+  "timetableImages": {
+    "A": "assets/timetable-A.webp",
+    "B": "assets/timetable-B.webp",
+    "C": "assets/timetable-C.webp",
+    "D": "assets/timetable-D.webp"
+  }
+}
