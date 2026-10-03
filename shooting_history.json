@@ -555,7 +555,9 @@
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
           "event": "フレッシュ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
-          "images": []
+          "images": [
+            "shooting_images/にごろ/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_1.jpg"
+          ]
         }
       ]
     },
@@ -917,7 +919,9 @@
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
           "event": "フレッシュ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
-          "images": []
+          "images": [
+            "shooting_images/可愛なの/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_1.jpg"
+          ]
         }
       ]
     },
@@ -959,7 +963,10 @@
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
           "event": "フレッシュ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
-          "images": []
+          "images": [
+            "shooting_images/夏夢うらら/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_1.jpg",
+            "shooting_images/夏夢うらら/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_2.jpg"
+          ]
         }
       ]
     },
@@ -1055,13 +1062,17 @@
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
           "event": "フレッシュ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
-          "images": []
+          "images": [
+            "shooting_images/奥泉奏/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_1.jpg"
+          ]
         },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": []
+          "images": [
+            "shooting_images/奥泉奏/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg"
+          ]
         }
       ]
     },
@@ -1218,7 +1229,9 @@
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
           "event": "フレッシュ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
-          "images": []
+          "images": [
+            "shooting_images/弓川いち華/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_1.jpg"
+          ]
         }
       ]
     },
@@ -1263,7 +1276,9 @@
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": []
+          "images": [
+            "shooting_images/愛染のえる/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg"
+          ]
         }
       ]
     },
