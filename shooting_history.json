@@ -1,0 +1,2215 @@
+{
+  "model_count": 149,
+  "models": [
+    {
+      "name": "AOI(SuperSparkTokyo)",
+      "source_folder": "AOI(SuperSparkTokyo)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "HANA(ﾁｰﾑﾊﾚﾙﾔ)",
+      "source_folder": "HANA(ﾁｰﾑﾊﾚﾙﾔ)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "KAGUYA(SuperSparkTokyo)",
+      "source_folder": "KAGUYA(SuperSparkTokyo)",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-18",
+      "shoots": [
+        {
+          "folder": "20260718_GスタLEOHEX OFFICIAL COLLECTION",
+          "date": "2026-07-18",
+          "event": "GスタLEOHEX OFFICIAL COLLECTION",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "LiLiCa(SuperSparkTokyo)",
+      "source_folder": "LiLiCa(SuperSparkTokyo)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "Nene(partyon)",
+      "source_folder": "Nene(partyon)",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-18",
+      "shoots": [
+        {
+          "folder": "20260718_GスタLEOHEX OFFICIAL COLLECTION",
+          "date": "2026-07-18",
+          "event": "GスタLEOHEX OFFICIAL COLLECTION",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "Nono(partyon)",
+      "source_folder": "Nono(partyon)",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-18",
+      "shoots": [
+        {
+          "folder": "20260718_GスタLEOHEX OFFICIAL COLLECTION",
+          "date": "2026-07-18",
+          "event": "GスタLEOHEX OFFICIAL COLLECTION",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇タグラン南",
+      "source_folder": "〇タグラン南",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇三田悠貴",
+      "source_folder": "〇三田悠貴",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇中島沙也加",
+      "source_folder": "〇中島沙也加",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇丸山りさ",
+      "source_folder": "〇丸山りさ",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇佐々木萌香",
+      "source_folder": "〇佐々木萌香",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇佐野エリカ",
+      "source_folder": "〇佐野エリカ",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇千原彩叶",
+      "source_folder": "〇千原彩叶",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇土田楓夏",
+      "source_folder": "〇土田楓夏",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇堀みなみ",
+      "source_folder": "〇堀みなみ",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇夏智なちこ",
+      "source_folder": "〇夏智なちこ",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇山田あい",
+      "source_folder": "〇山田あい",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇川村あい",
+      "source_folder": "〇川村あい",
+      "shoot_count": 2,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        },
+        {
+          "folder": "20260718_GスタLEOHEX OFFICIAL COLLECTION",
+          "date": "2026-07-18",
+          "event": "GスタLEOHEX OFFICIAL COLLECTION",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇心心",
+      "source_folder": "〇心心",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇愛沢のあ(Secret Memory )",
+      "source_folder": "〇愛沢のあ(Secret Memory )",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-29",
+      "shoots": [
+        {
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "date": "2026-07-29",
+          "event": "ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇成瀬るな",
+      "source_folder": "〇成瀬るな",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇木崎美依",
+      "source_folder": "〇木崎美依",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇林未珠",
+      "source_folder": "〇林未珠",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇桃白美沙",
+      "source_folder": "〇桃白美沙",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇比留川マイ",
+      "source_folder": "〇比留川マイ",
+      "shoot_count": 2,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        },
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇水星あおい",
+      "source_folder": "〇水星あおい",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇湊みそら",
+      "source_folder": "〇湊みそら",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇至月みな",
+      "source_folder": "〇至月みな",
+      "shoot_count": 1,
+      "last_shoot": "2026-08-06",
+      "shoots": [
+        {
+          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "date": "2026-08-06",
+          "event": "ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇花咲楓香",
+      "source_folder": "〇花咲楓香",
+      "shoot_count": 2,
+      "last_shoot": "2026-07-29",
+      "shoots": [
+        {
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "date": "2026-07-29",
+          "event": "ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "images": []
+        },
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇葵くみ",
+      "source_folder": "〇葵くみ",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇藤崎恋",
+      "source_folder": "〇藤崎恋",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇酒井穂乃香",
+      "source_folder": "〇酒井穂乃香",
+      "shoot_count": 0,
+      "last_shoot": null,
+      "shoots": []
+    },
+    {
+      "name": "〇高崎かなみ",
+      "source_folder": "〇高崎かなみ",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "〇麻倉瑞希",
+      "source_folder": "〇麻倉瑞希",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "あずあずき(学歴の暴力)",
+      "source_folder": "あずあずき(学歴の暴力)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "つぶらあい",
+      "source_folder": "つぶらあい",
+      "shoot_count": 3,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        },
+        {
+          "folder": "20260718_MERA撮影会",
+          "date": "2026-07-18",
+          "event": "MERA撮影会",
+          "images": []
+        },
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "なっちゃんです。",
+      "source_folder": "なっちゃんです。",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "にごろ",
+      "source_folder": "にごろ",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "まいかﾆﾔｰﾝ",
+      "source_folder": "まいかﾆﾔｰﾝ",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "ゴゴノコトコ(SOMOSOMO)",
+      "source_folder": "ゴゴノコトコ(SOMOSOMO)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "チャンバク(KIKO)",
+      "source_folder": "チャンバク(KIKO)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "ミツキルリ(Prettical Reaction)",
+      "source_folder": "ミツキルリ(Prettical Reaction)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "一ノ瀬ことね",
+      "source_folder": "一ノ瀬ことね",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "七海まり",
+      "source_folder": "七海まり",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "七瀬りん(君のﾒｲﾝﾋﾛｲﾝ)",
+      "source_folder": "七瀬りん(君のﾒｲﾝﾋﾛｲﾝ)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "三上もえ",
+      "source_folder": "★三上もえ",
+      "shoot_count": 2,
+      "last_shoot": "2026-08-01",
+      "shoots": [
+        {
+          "folder": "20260801_ｼｬﾝｸﾞﾘﾗｽ撮影会",
+          "date": "2026-08-01",
+          "event": "ｼｬﾝｸﾞﾘﾗｽ撮影会",
+          "images": [
+            "shooting_images/三上もえ/20260801_ｼｬﾝｸﾞﾘﾗｽ撮影会/map_1.jpg"
+          ]
+        },
+        {
+          "folder": "20260711_Gｽﾀ_個人撮影",
+          "date": "2026-07-11",
+          "event": "Gｽﾀ_個人撮影",
+          "images": [
+            "shooting_images/三上もえ/20260711_Gｽﾀ_個人撮影/map_1.jpg",
+            "shooting_images/三上もえ/20260711_Gｽﾀ_個人撮影/map_2.jpg",
+            "shooting_images/三上もえ/20260711_Gｽﾀ_個人撮影/map_3.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "上瀬ももな",
+      "source_folder": "上瀬ももな",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "並木かえで",
+      "source_folder": "並木かえで",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "丸山ナナ子(Grande Armée)",
+      "source_folder": "丸山ナナ子(Grande Armée)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "久我るり",
+      "source_folder": "久我るり",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "二宮和香",
+      "source_folder": "★二宮和香",
+      "shoot_count": 0,
+      "last_shoot": null,
+      "shoots": []
+    },
+    {
+      "name": "仁藤りさ",
+      "source_folder": "仁藤りさ",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-18",
+      "shoots": [
+        {
+          "folder": "20260718_GスタLEOHEX OFFICIAL COLLECTION",
+          "date": "2026-07-18",
+          "event": "GスタLEOHEX OFFICIAL COLLECTION",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "佐々木ちょこ(未完成のｷｬﾗﾒﾙ)",
+      "source_folder": "佐々木ちょこ(未完成のｷｬﾗﾒﾙ)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "佐伯澪",
+      "source_folder": "佐伯澪",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "佐藤莉依",
+      "source_folder": "佐藤莉依",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-29",
+      "shoots": [
+        {
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "date": "2026-07-29",
+          "event": "ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "佐野なぎさ",
+      "source_folder": "佐野なぎさ",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "優木萌々花(I's Merry Go Round)",
+      "source_folder": "優木萌々花(I's Merry Go Round)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "冬音ゆきの(ｷﾌﾟﾘｽﾓﾙﾎｫ)",
+      "source_folder": "冬音ゆきの(ｷﾌﾟﾘｽﾓﾙﾎｫ)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "前川綾音",
+      "source_folder": "前川綾音",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "千歳ゆず",
+      "source_folder": "千歳ゆず",
+      "shoot_count": 1,
+      "last_shoot": "2026-08-06",
+      "shoots": [
+        {
+          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔い",
+          "date": "2026-08-06",
+          "event": "ﾌﾚｯｼｭ撮影会_ほろ酔い",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "原つむぎ",
+      "source_folder": "原つむぎ",
+      "shoot_count": 2,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        },
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "可愛なの",
+      "source_folder": "可愛なの",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "吉澤友貴",
+      "source_folder": "吉澤友貴",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "和地つかさ",
+      "source_folder": "和地つかさ",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "夏夢うらら",
+      "source_folder": "夏夢うらら",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "夏宮みずほ(なないろ∞ﾐﾙｷｰｳｪｲ)",
+      "source_folder": "夏宮みずほ(なないろ∞ﾐﾙｷｰｳｪｲ)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "夏空ゆか(きゅーんず！)",
+      "source_folder": "夏空ゆか(きゅーんず！)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "天乃魁音",
+      "source_folder": "天乃魁音",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "天宮花南",
+      "source_folder": "天宮花南",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "天音鈴菜",
+      "source_folder": "天音鈴菜",
+      "shoot_count": 3,
+      "last_shoot": "2026-09-26",
+      "shoots": [
+        {
+          "folder": "20260926_ﾌﾚｯｼｭ撮影_ｺｻﾂ",
+          "date": "2026-09-26",
+          "event": "ﾌﾚｯｼｭ撮影_ｺｻﾂ",
+          "images": []
+        },
+        {
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "date": "2026-07-29",
+          "event": "ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "images": []
+        },
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "奥泉奏",
+      "source_folder": "奥泉奏",
+      "shoot_count": 2,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        },
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "姫宮もか(ｽﾌﾟｽﾗｯｼｭ)",
+      "source_folder": "姫宮もか(ｽﾌﾟｽﾗｯｼｭ)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "安達夕莉",
+      "source_folder": "安達夕莉",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "宝来こいの(Chu-Hapi)",
+      "source_folder": "宝来こいの(Chu-Hapi)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "宮本なる",
+      "source_folder": "宮本なる",
+      "shoot_count": 2,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        },
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "小坂田純奈",
+      "source_folder": "小坂田純奈",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "小日向ななせ",
+      "source_folder": "小日向ななせ",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "小松空",
+      "source_folder": "小松空",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "峰尾こずえ",
+      "source_folder": "峰尾こずえ",
+      "shoot_count": 2,
+      "last_shoot": "2026-08-06",
+      "shoots": [
+        {
+          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔い",
+          "date": "2026-08-06",
+          "event": "ﾌﾚｯｼｭ撮影会_ほろ酔い",
+          "images": []
+        },
+        {
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "date": "2026-07-29",
+          "event": "ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "島早ほの花(TERIOS)",
+      "source_folder": "島早ほの花(TERIOS)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "弓川いち華",
+      "source_folder": "弓川いち華",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "愛Ris",
+      "source_folder": "愛Ris",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "愛才りあ",
+      "source_folder": "愛才りあ",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "愛染のえる",
+      "source_folder": "愛染のえる",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "新川空",
+      "source_folder": "新川空",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "日下部ほたる",
+      "source_folder": "日下部ほたる",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "有川燈莉",
+      "source_folder": "有川燈莉",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "有栖かえで(ﾗﾋﾞｯﾄﾋﾞｯﾄ)",
+      "source_folder": "有栖かえで(ﾗﾋﾞｯﾄﾋﾞｯﾄ)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "朝比奈りる",
+      "source_folder": "朝比奈りる",
+      "shoot_count": 3,
+      "last_shoot": "2026-09-27",
+      "shoots": [
+        {
+          "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
+          "date": "2026-09-27",
+          "event": "はなまる2026大ﾌﾟｰﾙ撮影会",
+          "images": []
+        },
+        {
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "date": "2026-07-29",
+          "event": "ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "images": []
+        },
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "村上りいな",
+      "source_folder": "★村上りいな",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "松下ひめの",
+      "source_folder": "松下ひめの",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "松本みいな",
+      "source_folder": "松本みいな",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "松永あかり",
+      "source_folder": "松永あかり",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "桃園玲奈",
+      "source_folder": "桃園玲奈",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "桜りおん",
+      "source_folder": "桜りおん",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "梅田桃子",
+      "source_folder": "梅田桃子",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-29",
+      "shoots": [
+        {
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "date": "2026-07-29",
+          "event": "ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "森川ももか",
+      "source_folder": "森川ももか",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "森本栞菜(RiNCENT♯)",
+      "source_folder": "森本栞菜(RiNCENT♯)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "森田梨音(BABEL)",
+      "source_folder": "森田梨音(BABEL)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "榛名うい",
+      "source_folder": "榛名うい",
+      "shoot_count": 2,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        },
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "水上涼菜",
+      "source_folder": "水上涼菜",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "水沢あお",
+      "source_folder": "水沢あお",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-18",
+      "shoots": [
+        {
+          "folder": "20260718_GスタLEOHEX OFFICIAL COLLECTION",
+          "date": "2026-07-18",
+          "event": "GスタLEOHEX OFFICIAL COLLECTION",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "水瀬おと(MiXBeRRY)",
+      "source_folder": "水瀬おと(MiXBeRRY)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "池田かのん",
+      "source_folder": "池田かのん",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "河野亜季子",
+      "source_folder": "河野亜季子",
+      "shoot_count": 2,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        },
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "波崎天結",
+      "source_folder": "波崎天結",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "浜辺やよい",
+      "source_folder": "浜辺やよい",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "清宮みいな",
+      "source_folder": "清宮みいな",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "清宮仁愛",
+      "source_folder": "清宮仁愛",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "爽香",
+      "source_folder": "爽香",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "片岡未優",
+      "source_folder": "片岡未優",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "琴吹ゆず(RiNCENT♯)",
+      "source_folder": "琴吹ゆず(RiNCENT♯)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "甘野ななみ(なないろ∞ﾐﾙｷｰｳｪｲ)",
+      "source_folder": "甘野ななみ(なないろ∞ﾐﾙｷｰｳｪｲ)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "田島怜華(Grande Armée)",
+      "source_folder": "田島怜華(Grande Armée)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "白上咲花",
+      "source_folder": "白上咲花",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "白瀬由佳",
+      "source_folder": "白瀬由佳",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "白石莉子",
+      "source_folder": "白石莉子",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "白石萌衣(Melty BeaR)",
+      "source_folder": "白石萌衣(Melty BeaR)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "白羅冬萌",
+      "source_folder": "白羅冬萌",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "皆代",
+      "source_folder": "皆代",
+      "shoot_count": 4,
+      "last_shoot": "2026-08-31",
+      "shoots": [
+        {
+          "folder": "20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション",
+          "date": "2026-08-31",
+          "event": "ﾌﾚｯｼｭ撮影会_last summer Wセッション",
+          "images": []
+        },
+        {
+          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート",
+          "date": "2026-08-06",
+          "event": "ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート",
+          "images": []
+        },
+        {
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "date": "2026-07-29",
+          "event": "ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "images": []
+        },
+        {
+          "folder": "20260725_ﾌﾚｯｼｭ撮影会_ｺｻﾂ",
+          "date": "2026-07-25",
+          "event": "ﾌﾚｯｼｭ撮影会_ｺｻﾂ",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "皆本しいね(君のﾒｲﾝﾋﾛｲﾝ)",
+      "source_folder": "皆本しいね(君のﾒｲﾝﾋﾛｲﾝ)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "真田まこと",
+      "source_folder": "真田まこと",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "矢沢あい",
+      "source_folder": "矢沢あい",
+      "shoot_count": 1,
+      "last_shoot": "2026-08-06",
+      "shoots": [
+        {
+          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔い",
+          "date": "2026-08-06",
+          "event": "ﾌﾚｯｼｭ撮影会_ほろ酔い",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "石原由希",
+      "source_folder": "石原由希",
+      "shoot_count": 2,
+      "last_shoot": "2026-08-02",
+      "shoots": [
+        {
+          "folder": "20260802_ﾌﾚﾝﾄﾞ撮影会",
+          "date": "2026-08-02",
+          "event": "ﾌﾚﾝﾄﾞ撮影会",
+          "images": []
+        },
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "神喜ミア",
+      "source_folder": "神喜ミア",
+      "shoot_count": 2,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        },
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "神楽坂茜",
+      "source_folder": "神楽坂茜",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "神田舞華",
+      "source_folder": "神田舞華",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-29",
+      "shoots": [
+        {
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "date": "2026-07-29",
+          "event": "ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "秋田そな",
+      "source_folder": "秋田そな",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "笹倉杏",
+      "source_folder": "笹倉杏",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "篠宮なほ",
+      "source_folder": "篠宮なほ",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "美波那緒(ｱﾙﾃﾐｽの翼)",
+      "source_folder": "美波那緒(ｱﾙﾃﾐｽの翼)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "羽原ミ夏(ﾐﾗｲｻｶﾞｼ)",
+      "source_folder": "羽原ミ夏(ﾐﾗｲｻｶﾞｼ)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "花守雛",
+      "source_folder": "花守雛",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "萌乃ゆき(RiNCENT♯)",
+      "source_folder": "萌乃ゆき(RiNCENT♯)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "葵つむぎ(すてねこｷｬｯﾂ)",
+      "source_folder": "葵つむぎ(すてねこｷｬｯﾂ)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "蒼山みこと",
+      "source_folder": "蒼山みこと",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "薺かれん",
+      "source_folder": "薺かれん",
+      "shoot_count": 2,
+      "last_shoot": "2026-07-19",
+      "shoots": [
+        {
+          "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "date": "2026-07-19",
+          "event": "ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
+          "images": []
+        },
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "藍瀬ゆき(SMiLE DROP)",
+      "source_folder": "藍瀬ゆき(SMiLE DROP)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "藤田芽愛(Grande Armée)",
+      "source_folder": "藤田芽愛(Grande Armée)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "谷かえ",
+      "source_folder": "谷かえ",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "逢坂あい(LOVE C!DER)",
+      "source_folder": "逢坂あい(LOVE C!DER)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "鈴心かりん(Crews of CamelliA)",
+      "source_folder": "鈴心かりん(Crews of CamelliA)",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "雪村花鈴",
+      "source_folder": "雪村花鈴",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "雪森しゅう",
+      "source_folder": "雪森しゅう",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会_Booty",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "霞音あやな(YUGUREMI)",
+      "source_folder": "霞音あやな(YUGUREMI)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "香月杏珠",
+      "source_folder": "香月杏珠",
+      "shoot_count": 1,
+      "last_shoot": "2026-07-18",
+      "shoots": [
+        {
+          "folder": "20260718_GスタLEOHEX OFFICIAL COLLECTION",
+          "date": "2026-07-18",
+          "event": "GスタLEOHEX OFFICIAL COLLECTION",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "高坂琴水(ｷﾌﾟﾘｽﾓﾙﾎｫ)",
+      "source_folder": "高坂琴水(ｷﾌﾟﾘｽﾓﾙﾎｫ)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "高峰じゅり",
+      "source_folder": "高峰じゅり",
+      "shoot_count": 1,
+      "last_shoot": "2026-06-28",
+      "shoots": [
+        {
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会",
+          "date": "2026-06-28",
+          "event": "ﾌﾚｯｼｭ撮影会",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "鳴海空良(君のﾒｲﾝﾋﾛｲﾝ)",
+      "source_folder": "鳴海空良(君のﾒｲﾝﾋﾛｲﾝ)",
+      "shoot_count": 1,
+      "last_shoot": "2026-09-30",
+      "shoots": [
+        {
+          "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "date": "2026-09-30",
+          "event": "近代麻雀水着祭2026 in 東京サマーランド_DAY2",
+          "images": []
+        }
+      ]
+    }
+  ]
+}
