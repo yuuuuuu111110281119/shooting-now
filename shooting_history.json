@@ -1499,13 +1499,17 @@
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
           "event": "フレッシュ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
-          "images": []
+          "images": [
+            "shooting_images/榛名うい/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_1.jpg"
+          ]
         },
         {
-          "folder": "20260628_ﾌﾚｯｼｭ撮影会",
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
-          "event": "フレッシュ撮影会",
-          "images": []
+          "event": "フレッシュ撮影会_Booty",
+          "images": [
+            "shooting_images/榛名うい/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg"
+          ]
         }
       ]
     },
@@ -1575,13 +1579,22 @@
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
           "event": "フレッシュ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
-          "images": []
+          "images": [
+            "shooting_images/河野亜季子/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_1.jpg",
+            "shooting_images/河野亜季子/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_2.jpg",
+            "shooting_images/河野亜季子/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_3.jpg",
+            "shooting_images/河野亜季子/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_4.jpg"
+          ]
         },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": []
+          "images": [
+            "shooting_images/河野亜季子/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg",
+            "shooting_images/河野亜季子/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_2.jpg",
+            "shooting_images/河野亜季子/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_3.jpg"
+          ]
         }
       ]
     },
@@ -1952,7 +1965,10 @@
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": []
+          "images": [
+            "shooting_images/笹倉杏/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg",
+            "shooting_images/笹倉杏/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_2.jpg"
+          ]
         }
       ]
     },
@@ -2221,10 +2237,14 @@
       "last_shoot": "2026-06-28",
       "shoots": [
         {
-          "folder": "20260628_ﾌﾚｯｼｭ撮影会",
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
-          "event": "フレッシュ撮影会",
-          "images": []
+          "event": "フレッシュ撮影会_Booty",
+          "images": [
+            "shooting_images/高峰じゅり/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg",
+            "shooting_images/高峰じゅり/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_2.jpg",
+            "shooting_images/高峰じゅり/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_3.jpg"
+          ]
         }
       ]
     },
