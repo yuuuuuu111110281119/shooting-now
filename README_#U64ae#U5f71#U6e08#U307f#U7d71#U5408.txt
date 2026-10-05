@@ -1,0 +1,15 @@
+推しマップ GitHub統合版
+このパックは、GitHubからcloneした shooting-now の現物を基準に撮影済み機能を統合したものです。
+
+維持:
+- shooting-favorites-v2 を変更していないため既存のお気に入り保存方式を維持
+- 既存イベント/NOW/出演者/お気に入り/MAP/時間表
+
+追加:
+- 撮影済みタブ
+- 撮影済みモデル検索
+- 撮影回数/最終撮影/撮影履歴
+- map_1～map_4
+- PCフォルダーから shooting_history.json と shooting_images を生成
+
+次の段階で、clone済み shooting-now へ上書きし、ローカル確認後に Git commit/push を設定します。
