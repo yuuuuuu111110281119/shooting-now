@@ -1,18 +1,22 @@
 {
+  "app_version": "20261007202441",
   "model_count": 149,
-  "updated_at": "2026-10-07T20:03:58+09:00",
-  "updated_display": "2026/10/07 20:03",
-  "app_version": "20261007-200358",
+  "updated_at": "2026-10-07T20:24:41+09:00",
+  "updated_display": "2026/10/07 20:24",
   "models": [
     {
-      "name": "AOI(SuperSparkTokyo)",
+      "name": "AOI",
       "source_folder": "AOI(SuperSparkTokyo)",
-      "display_name": "AOI(SuperSparkTokyo)",
+      "display_name": "AOI",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
+      "reading": "AOI",
+      "attributes": [
+        "バーレスクダンサー"
+      ],
+      "achievements": [
+        "SuperSparkTokyo"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -22,19 +26,24 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "HANA(チームハレルヤ)",
+      "name": "HANA",
       "source_folder": "HANA(ﾁｰﾑﾊﾚﾙﾔ)",
-      "display_name": "HANA(チームハレルヤ)",
+      "display_name": "HANA",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
+      "reading": "HANA",
+      "attributes": [
+        "バーレスクダンサー"
+      ],
+      "achievements": [
+        "チームハレルヤ"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -44,19 +53,24 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "KAGUYA(SuperSparkTokyo)",
+      "name": "KAGUYA",
       "source_folder": "KAGUYA(SuperSparkTokyo)",
-      "display_name": "KAGUYA(SuperSparkTokyo)",
+      "display_name": "KAGUYA",
       "shoot_count": 1,
       "last_shoot": "2026-07-18",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
+      "reading": "KAGUYA",
+      "attributes": [
+        "バーレスクダンサー"
+      ],
+      "achievements": [
+        "SuperSparkTokyo"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -64,23 +78,28 @@
           "date": "2026-07-18",
           "event": "GスタLEOHEX OFFICIAL COLLECTION",
           "images": [
-            "shooting_images/KAGUYA(SuperSparkTokyo)/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_1.jpg"
+            "shooting_images/KAGUYA/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_1.jpg"
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "LiLiCa(SuperSparkTokyo)",
+      "name": "LiLiCa",
       "source_folder": "LiLiCa(SuperSparkTokyo)",
-      "display_name": "LiLiCa(SuperSparkTokyo)",
+      "display_name": "LiLiCa",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
+      "reading": "LiLiCa",
+      "attributes": [
+        "バーレスクダンサー"
+      ],
+      "achievements": [
+        "SuperSparkTokyo"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -90,19 +109,24 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "Nene(partyon)",
+      "name": "Nene",
       "source_folder": "Nene(partyon)",
-      "display_name": "Nene(partyon)",
+      "display_name": "Nene",
       "shoot_count": 1,
       "last_shoot": "2026-07-18",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
+      "reading": "Nene",
+      "attributes": [
+        "バーレスクダンサー"
+      ],
+      "achievements": [
+        "partyon"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -110,24 +134,29 @@
           "date": "2026-07-18",
           "event": "GスタLEOHEX OFFICIAL COLLECTION",
           "images": [
-            "shooting_images/Nene(partyon)/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_1.jpg",
-            "shooting_images/Nene(partyon)/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_2.jpg"
+            "shooting_images/Nene/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_1.jpg",
+            "shooting_images/Nene/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_2.jpg"
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "Nono(partyon)",
+      "name": "Nono",
       "source_folder": "Nono(partyon)",
-      "display_name": "Nono(partyon)",
+      "display_name": "Nono",
       "shoot_count": 1,
       "last_shoot": "2026-07-18",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
+      "reading": "Nono",
+      "attributes": [
+        "バーレスクダンサー"
+      ],
+      "achievements": [
+        "partyon"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -135,24 +164,29 @@
           "date": "2026-07-18",
           "event": "GスタLEOHEX OFFICIAL COLLECTION",
           "images": [
-            "shooting_images/Nono(partyon)/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_1.jpg",
-            "shooting_images/Nono(partyon)/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_2.jpg"
+            "shooting_images/Nono/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_1.jpg",
+            "shooting_images/Nono/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_2.jpg"
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "あずあずき(学歴の暴力)",
+      "name": "あずあずき",
       "source_folder": "あずあずき(学歴の暴力)",
-      "display_name": "あずあずき(学歴の暴力)",
+      "display_name": "あずあずき",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
+      "reading": "あずあずき",
+      "attributes": [
+        "アイドル"
+      ],
+      "achievements": [
+        "学歴の暴力"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -162,7 +196,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -191,7 +226,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260718_MERA撮影会",
@@ -204,7 +240,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
@@ -216,7 +253,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -238,7 +276,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -262,7 +301,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -284,19 +324,24 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "ゴゴノコトコ(SOMOSOMO)",
+      "name": "ゴゴノコトコ",
       "source_folder": "ゴゴノコトコ(SOMOSOMO)",
-      "display_name": "ゴゴノコトコ(SOMOSOMO)",
+      "display_name": "ゴゴノコトコ",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
+      "reading": "ごごのことこ",
+      "attributes": [
+        "アイドル"
+      ],
+      "achievements": [
+        "SOMOSOMO"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -306,7 +351,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -328,19 +374,22 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "チャンバク(KIKO)",
+      "name": "チャンバク",
       "source_folder": "チャンバク(KIKO)",
-      "display_name": "チャンバク(KIKO)",
+      "display_name": "チャンバク",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
-      "reading": "",
+      "reading": "ちゃんばく",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "KIKO"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -350,19 +399,22 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "ミツキルリ(Prettical Reaction)",
+      "name": "ミツキルリ",
       "source_folder": "ミツキルリ(Prettical Reaction)",
-      "display_name": "ミツキルリ(Prettical Reaction)",
+      "display_name": "ミツキルリ",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
-      "reading": "",
+      "reading": "みつきるり",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "Prettical Reaction"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -372,7 +424,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -399,7 +452,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -425,19 +479,24 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "七瀬りん(君のメインヒロイン)",
+      "name": "七瀬りん",
       "source_folder": "七瀬りん(君のﾒｲﾝﾋﾛｲﾝ)",
-      "display_name": "七瀬りん(君のメインヒロイン)",
+      "display_name": "七瀬りん",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
+      "reading": "ななせりん",
+      "attributes": [
+        "アイドル"
+      ],
+      "achievements": [
+        "君のメインヒロイン"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -447,7 +506,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -473,7 +533,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 1
+          "cheki_count": 1,
+          "nude": true
         },
         {
           "folder": "20260711_Gｽﾀ_個人撮影",
@@ -486,7 +547,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -510,7 +572,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -537,7 +600,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -561,7 +625,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -587,7 +652,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -611,19 +677,22 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "丸山ナナ子(Grande Armée)",
+      "name": "丸山ナナ子",
       "source_folder": "丸山ナナ子(Grande Armée)",
-      "display_name": "丸山ナナ子(Grande Armée)",
+      "display_name": "丸山ナナ子",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
-      "reading": "",
+      "reading": "まるやまななこ",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "Grande Armée"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -633,7 +702,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -655,7 +725,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -696,19 +767,24 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "佐々木ちょこ(未完成のキャラメル)",
+      "name": "佐々木ちょこ",
       "source_folder": "佐々木ちょこ(未完成のｷｬﾗﾒﾙ)",
-      "display_name": "佐々木ちょこ(未完成のキャラメル)",
+      "display_name": "佐々木ちょこ",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
+      "reading": "さえきちょこ",
+      "attributes": [
+        "アイドル"
+      ],
+      "achievements": [
+        "未完成のキャラメル"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -718,7 +794,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -742,7 +819,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -766,7 +844,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -793,7 +872,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -815,7 +895,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -839,7 +920,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -861,19 +943,24 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "冬音ゆきの(キプリスモルホォ)",
+      "name": "冬音ゆきの",
       "source_folder": "冬音ゆきの(ｷﾌﾟﾘｽﾓﾙﾎｫ)",
-      "display_name": "冬音ゆきの(キプリスモルホォ)",
+      "display_name": "冬音ゆきの",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
+      "reading": "ゆきねゆきの",
+      "attributes": [
+        "アイドル"
+      ],
+      "achievements": [
+        "キプリスモルホォ"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -883,7 +970,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -905,7 +993,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -927,7 +1016,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -956,7 +1046,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -985,7 +1076,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
@@ -997,7 +1089,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1025,7 +1118,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1049,7 +1143,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1078,7 +1173,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1102,7 +1198,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1126,7 +1223,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1151,19 +1249,24 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "夏宮みずほ(なないろ∞ミルキーウェイ)",
+      "name": "夏宮みずほ",
       "source_folder": "夏宮みずほ(なないろ∞ﾐﾙｷｰｳｪｲ)",
-      "display_name": "夏宮みずほ(なないろ∞ミルキーウェイ)",
+      "display_name": "夏宮みずほ",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
+      "reading": "なつみやみずほ",
+      "attributes": [
+        "アイドル"
+      ],
+      "achievements": [
+        "なないろ∞ミルキーウェイ"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -1173,7 +1276,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1195,19 +1299,24 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "夏空ゆか(きゅーんず！)",
+      "name": "夏空ゆか",
       "source_folder": "夏空ゆか(きゅーんず！)",
-      "display_name": "夏空ゆか(きゅーんず！)",
+      "display_name": "夏空ゆか",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
+      "reading": "なつぞらゆか",
+      "attributes": [
+        "アイドル"
+      ],
+      "achievements": [
+        "きゅーんず！"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -1217,7 +1326,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1241,7 +1351,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1263,7 +1374,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1289,7 +1401,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
@@ -1304,7 +1417,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
@@ -1316,7 +1430,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1340,7 +1455,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
@@ -1351,7 +1467,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1373,7 +1490,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1397,7 +1515,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1419,7 +1538,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1441,7 +1561,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会",
@@ -1450,7 +1571,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1479,7 +1601,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1504,7 +1627,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1526,7 +1650,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1548,7 +1673,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1573,7 +1699,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
@@ -1586,7 +1713,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1608,7 +1736,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1632,7 +1761,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260718_GスタLEOHEX OFFICIAL COLLECTION",
@@ -1644,7 +1774,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1670,7 +1801,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1692,7 +1824,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1717,7 +1850,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1739,7 +1873,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1763,7 +1898,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1785,7 +1921,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1807,7 +1944,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1829,7 +1967,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1854,7 +1993,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1879,7 +2019,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1901,7 +2042,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1925,7 +2067,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
@@ -1940,7 +2083,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
@@ -1952,7 +2096,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1974,7 +2119,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -1996,7 +2142,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2021,7 +2168,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2045,7 +2193,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2067,7 +2216,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2089,7 +2239,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2113,7 +2264,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2135,7 +2287,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2157,7 +2310,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2185,7 +2339,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2209,19 +2364,22 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "森本栞菜(RiNCENT♯)",
+      "name": "森本栞菜",
       "source_folder": "森本栞菜(RiNCENT♯)",
-      "display_name": "森本栞菜(RiNCENT♯)",
+      "display_name": "森本栞菜",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "RiNCENT♯"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -2231,19 +2389,22 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "森田梨音(BABEL)",
+      "name": "森田梨音",
       "source_folder": "森田梨音(BABEL)",
-      "display_name": "森田梨音(BABEL)",
+      "display_name": "森田梨音",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "BABEL"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -2253,7 +2414,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2277,7 +2439,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
@@ -2288,7 +2451,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2310,7 +2474,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
@@ -2319,7 +2484,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2341,7 +2507,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2363,7 +2530,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2391,19 +2559,22 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "水瀬おと(MiXBeRRY)",
+      "name": "水瀬おと",
       "source_folder": "水瀬おと(MiXBeRRY)",
-      "display_name": "水瀬おと(MiXBeRRY)",
+      "display_name": "水瀬おと",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "MiXBeRRY"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -2413,7 +2584,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2435,7 +2607,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2462,7 +2635,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
@@ -2475,7 +2649,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2499,7 +2674,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2521,7 +2697,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2545,7 +2722,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2567,7 +2745,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2589,7 +2768,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2614,7 +2794,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2636,19 +2817,22 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "琴吹ゆず(RiNCENT♯)",
+      "name": "琴吹ゆず",
       "source_folder": "琴吹ゆず(RiNCENT♯)",
-      "display_name": "琴吹ゆず(RiNCENT♯)",
+      "display_name": "琴吹ゆず",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "RiNCENT♯"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -2658,19 +2842,22 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "甘野ななみ(なないろ∞ミルキーウェイ)",
+      "name": "甘野ななみ",
       "source_folder": "甘野ななみ(なないろ∞ﾐﾙｷｰｳｪｲ)",
-      "display_name": "甘野ななみ(なないろ∞ミルキーウェイ)",
+      "display_name": "甘野ななみ",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "なないろ∞ミルキーウェイ"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -2680,19 +2867,22 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "田島怜華(Grande Armée)",
+      "name": "田島怜華",
       "source_folder": "田島怜華(Grande Armée)",
-      "display_name": "田島怜華(Grande Armée)",
+      "display_name": "田島怜華",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "Grande Armée"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -2702,7 +2892,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2724,7 +2915,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2746,7 +2938,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2771,19 +2964,22 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
     {
-      "name": "白石萌衣(Melty BeaR)",
+      "name": "白石萌衣",
       "source_folder": "白石萌衣(Melty BeaR)",
-      "display_name": "白石萌衣(Melty BeaR)",
+      "display_name": "白石萌衣",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "Melty BeaR"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -2793,7 +2989,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2815,7 +3012,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2844,7 +3042,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート",
@@ -2860,7 +3059,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
@@ -2876,7 +3076,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260725_ﾌﾚｯｼｭ撮影会_ｺｻﾂ",
@@ -2891,7 +3092,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2913,7 +3115,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2938,7 +3141,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2965,7 +3169,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -2990,7 +3195,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
@@ -3003,7 +3209,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3027,7 +3234,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
@@ -3038,7 +3246,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3063,7 +3272,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3087,7 +3297,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3113,7 +3324,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3138,7 +3350,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3160,7 +3373,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3182,7 +3396,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3204,7 +3419,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3226,7 +3442,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3248,7 +3465,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
@@ -3257,7 +3475,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3279,7 +3498,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3301,7 +3521,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3323,7 +3544,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3345,7 +3567,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3370,7 +3593,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3394,7 +3618,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
@@ -3405,7 +3630,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3427,7 +3653,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3449,7 +3676,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3471,7 +3699,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3497,7 +3726,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3519,7 +3749,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3553,7 +3784,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3575,7 +3807,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3597,7 +3830,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3619,7 +3853,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3644,7 +3879,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3666,7 +3902,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3692,7 +3929,8 @@
           ],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3714,7 +3952,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3736,7 +3975,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     },
@@ -3758,7 +3998,8 @@
           "images": [],
           "highlights": [],
           "private_images": [],
-          "cheki_count": 0
+          "cheki_count": 0,
+          "nude": false
         }
       ]
     }
