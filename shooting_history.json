@@ -1,7 +1,7 @@
 {
   "model_count": 149,
-  "updated_at": "2026-10-07T18:05+09:00",
-  "updated_display": "2026/10/07 18:05",
+  "updated_at": "2026-10-07T18:13+09:00",
+  "updated_display": "2026/10/07 18:13",
   "models": [
     {
       "name": "AOI(SuperSparkTokyo)",
@@ -638,7 +638,10 @@
           "folder": "20260718_GスタLEOHEX OFFICIAL COLLECTION",
           "date": "2026-07-18",
           "event": "GスタLEOHEX OFFICIAL COLLECTION",
-          "images": [],
+          "images": [
+            "shooting_images/仁藤りさ/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_1.jpg",
+            "shooting_images/仁藤りさ/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_2.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -2786,7 +2789,9 @@
           "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
           "event": "フレッシュ撮影会_メタルヒロイン",
-          "images": [],
+          "images": [
+            "shooting_images/神田舞華/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
