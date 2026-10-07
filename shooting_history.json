@@ -1,7 +1,7 @@
 {
   "model_count": 149,
-  "updated_at": "2026-10-07T18:13+09:00",
-  "updated_display": "2026/10/07 18:13",
+  "updated_at": "2026-10-07T19:15+09:00",
+  "updated_display": "2026/10/07 19:15",
   "models": [
     {
       "name": "AOI(SuperSparkTokyo)",
@@ -521,7 +521,9 @@
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
           "event": "フレッシュ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
-          "images": [],
+          "images": [
+            "shooting_images/並木かえで/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_1.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -874,14 +876,14 @@
       "birthdate": "",
       "shoots": [
         {
-          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔い",
+          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート",
           "date": "2026-08-06",
-          "event": "フレッシュ撮影会_ほろ酔い",
+          "event": "フレッシュ撮影会_ほろ酔いおうちデート",
           "images": [
-            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔い/map_1.jpg",
-            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔い/map_2.jpg",
-            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔い/map_3.jpg",
-            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔い/map_4.jpg"
+            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_1.jpg",
+            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_2.jpg",
+            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_3.jpg",
+            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_4.jpg"
           ],
           "highlights": [],
           "private_images": []
@@ -984,7 +986,12 @@
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
           "event": "フレッシュ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
-          "images": [],
+          "images": [
+            "shooting_images/和地つかさ/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_1.jpg",
+            "shooting_images/和地つかさ/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_2.jpg",
+            "shooting_images/和地つかさ/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_3.jpg",
+            "shooting_images/和地つかさ/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_4.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -1134,7 +1141,9 @@
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": [],
+          "images": [
+            "shooting_images/天乃魁音/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.JPG"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -1173,10 +1182,14 @@
       "birthdate": "",
       "shoots": [
         {
-          "folder": "20260926_ﾌﾚｯｼｭ撮影_ｺｻﾂ",
+          "folder": "20260926_ﾌﾚｯｼｭ撮影会_ｺｻﾂ",
           "date": "2026-09-26",
-          "event": "フレッシュ撮影_コサツ",
-          "images": [],
+          "event": "フレッシュ撮影会_コサツ",
+          "images": [
+            "shooting_images/天音鈴菜/20260926_ﾌﾚｯｼｭ撮影会_ｺｻﾂ/map_1.jpg",
+            "shooting_images/天音鈴菜/20260926_ﾌﾚｯｼｭ撮影会_ｺｻﾂ/map_2.jpg",
+            "shooting_images/天音鈴菜/20260926_ﾌﾚｯｼｭ撮影会_ｺｻﾂ/map_3.jpg"
+          ],
           "highlights": [],
           "private_images": []
         },
@@ -1184,7 +1197,13 @@
           "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
           "event": "フレッシュ撮影会_メタルヒロイン",
-          "images": [],
+          "images": [
+            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
+            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
+            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg",
+            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_5.jpg"
+          ],
           "highlights": [],
           "private_images": []
         },
@@ -1192,7 +1211,10 @@
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": [],
+          "images": [
+            "shooting_images/天音鈴菜/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg",
+            "shooting_images/天音鈴菜/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_2.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -1427,10 +1449,13 @@
       "birthdate": "",
       "shoots": [
         {
-          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔い",
+          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート",
           "date": "2026-08-06",
-          "event": "フレッシュ撮影会_ほろ酔い",
-          "images": [],
+          "event": "フレッシュ撮影会_ほろ酔いおうちデート",
+          "images": [
+            "shooting_images/峰尾こずえ/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_1.jpg",
+            "shooting_images/峰尾こずえ/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_2.jpg"
+          ],
           "highlights": [],
           "private_images": []
         },
@@ -1438,7 +1463,11 @@
           "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
           "event": "フレッシュ撮影会_メタルヒロイン",
-          "images": [],
+          "images": [
+            "shooting_images/峰尾こずえ/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/峰尾こずえ/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
+            "shooting_images/峰尾こずえ/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -1687,7 +1716,10 @@
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": [],
+          "images": [
+            "shooting_images/日下部ほたる/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg",
+            "shooting_images/日下部ほたる/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_2.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -1708,7 +1740,10 @@
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": [],
+          "images": [
+            "shooting_images/有川燈莉/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg",
+            "shooting_images/有川燈莉/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_2.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -1750,7 +1785,9 @@
           "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
           "date": "2026-09-27",
           "event": "はなまる2026大プール撮影会",
-          "images": [],
+          "images": [
+            "shooting_images/朝比奈りる/20260927_はなまる2026大ﾌﾟｰﾙ撮影会/map_1.jpg"
+          ],
           "highlights": [],
           "private_images": []
         },
@@ -1758,7 +1795,13 @@
           "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
           "event": "フレッシュ撮影会_メタルヒロイン",
-          "images": [],
+          "images": [
+            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
+            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
+            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg",
+            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_5.jpg"
+          ],
           "highlights": [],
           "private_images": []
         },
@@ -1766,7 +1809,10 @@
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": [],
+          "images": [
+            "shooting_images/朝比奈りる/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg",
+            "shooting_images/朝比奈りる/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_2.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -1981,7 +2027,13 @@
           "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
           "event": "フレッシュ撮影会_メタルヒロイン",
-          "images": [],
+          "images": [
+            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
+            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
+            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg",
+            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_5.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -2171,7 +2223,11 @@
           "folder": "20260718_GスタLEOHEX OFFICIAL COLLECTION",
           "date": "2026-07-18",
           "event": "GスタLEOHEX OFFICIAL COLLECTION",
-          "images": [],
+          "images": [
+            "shooting_images/水沢あお/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_1.jpg",
+            "shooting_images/水沢あお/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_2.jpg",
+            "shooting_images/水沢あお/20260718_GスタLEOHEX OFFICIAL COLLECTION/map_3.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -2272,7 +2328,9 @@
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": [],
+          "images": [
+            "shooting_images/波崎天結/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -2314,7 +2372,9 @@
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
           "event": "フレッシュ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
-          "images": [],
+          "images": [
+            "shooting_images/清宮みいな/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_1.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -2377,7 +2437,10 @@
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": [],
+          "images": [
+            "shooting_images/爽香/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg",
+            "shooting_images/爽香/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_2.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -2524,7 +2587,10 @@
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": [],
+          "images": [
+            "shooting_images/白石莉子/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.JPG",
+            "shooting_images/白石莉子/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_2.JPG"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -2587,7 +2653,14 @@
           "folder": "20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション",
           "date": "2026-08-31",
           "event": "フレッシュ撮影会_last summer Wセッション",
-          "images": [],
+          "images": [
+            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_1.jpg",
+            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_2.jpg",
+            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_3.jpg",
+            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_4.jpg",
+            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_5.jpg",
+            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_6.jpg"
+          ],
           "highlights": [],
           "private_images": []
         },
@@ -2595,7 +2668,14 @@
           "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート",
           "date": "2026-08-06",
           "event": "フレッシュ撮影会_ほろ酔いおうちデート",
-          "images": [],
+          "images": [
+            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_1.jpg",
+            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_2.jpg",
+            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_3.jpg",
+            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_4.jpg",
+            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_5.jpg",
+            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_6.jpg"
+          ],
           "highlights": [],
           "private_images": []
         },
@@ -2603,7 +2683,14 @@
           "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
           "event": "フレッシュ撮影会_メタルヒロイン",
-          "images": [],
+          "images": [
+            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
+            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
+            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg",
+            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_5.jpg",
+            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_6.jpg"
+          ],
           "highlights": [],
           "private_images": []
         },
@@ -2611,7 +2698,13 @@
           "folder": "20260725_ﾌﾚｯｼｭ撮影会_ｺｻﾂ",
           "date": "2026-07-25",
           "event": "フレッシュ撮影会_コサツ",
-          "images": [],
+          "images": [
+            "shooting_images/皆代/20260725_ﾌﾚｯｼｭ撮影会_ｺｻﾂ/map_1.jpg",
+            "shooting_images/皆代/20260725_ﾌﾚｯｼｭ撮影会_ｺｻﾂ/map_2.jpg",
+            "shooting_images/皆代/20260725_ﾌﾚｯｼｭ撮影会_ｺｻﾂ/map_3.jpg",
+            "shooting_images/皆代/20260725_ﾌﾚｯｼｭ撮影会_ｺｻﾂ/map_4.jpg",
+            "shooting_images/皆代/20260725_ﾌﾚｯｼｭ撮影会_ｺｻﾂ/map_5.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -2674,14 +2767,14 @@
       "birthdate": "",
       "shoots": [
         {
-          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔い",
+          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート",
           "date": "2026-08-06",
-          "event": "フレッシュ撮影会_ほろ酔い",
+          "event": "フレッシュ撮影会_ほろ酔いおうちデート",
           "images": [
-            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔い/map_1.jpg",
-            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔い/map_2.jpg",
-            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔い/map_3.jpg",
-            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔い/map_4.jpg"
+            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_1.jpg",
+            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_2.jpg",
+            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_3.jpg",
+            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_4.jpg"
           ],
           "highlights": [],
           "private_images": []
@@ -2703,7 +2796,10 @@
           "folder": "20260802_ﾌﾚﾝﾄﾞ撮影会",
           "date": "2026-08-02",
           "event": "フレンド撮影会",
-          "images": [],
+          "images": [
+            "shooting_images/石原由希/20260802_ﾌﾚﾝﾄﾞ撮影会/map_1.jpg",
+            "shooting_images/石原由希/20260802_ﾌﾚﾝﾄﾞ撮影会/map_2.jpg"
+          ],
           "highlights": [],
           "private_images": []
         },
@@ -2711,7 +2807,11 @@
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": [],
+          "images": [
+            "shooting_images/石原由希/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg",
+            "shooting_images/石原由希/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_2.jpg",
+            "shooting_images/石原由希/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_3.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -3058,7 +3158,10 @@
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": [],
+          "images": [
+            "shooting_images/蒼山みこと/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg",
+            "shooting_images/蒼山みこと/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_2.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -3079,7 +3182,9 @@
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
           "event": "フレッシュ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
-          "images": [],
+          "images": [
+            "shooting_images/薺かれん/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_1.jpg"
+          ],
           "highlights": [],
           "private_images": []
         },
@@ -3087,7 +3192,9 @@
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": [],
+          "images": [
+            "shooting_images/薺かれん/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
@@ -3171,7 +3278,11 @@
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": [],
+          "images": [
+            "shooting_images/谷かえ/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg",
+            "shooting_images/谷かえ/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_2.jpg",
+            "shooting_images/谷かえ/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_3.jpg"
+          ],
           "highlights": [],
           "private_images": []
         }
