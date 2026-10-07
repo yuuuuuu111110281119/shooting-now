@@ -1,8 +1,8 @@
 {
-  "app_version": "20261007205218",
+  "app_version": "20261007215456",
   "model_count": 149,
-  "updated_at": "2026-10-07T20:52:18+09:00",
-  "updated_display": "2026/10/07 20:52",
+  "updated_at": "2026-10-07T21:54:56+09:00",
+  "updated_display": "2026/10/07 21:54",
   "models": [
     {
       "name": "AOI",
@@ -723,9 +723,9 @@
       "birthdate": "",
       "shoots": [
         {
-          "folder": "20260628_ﾌﾚｯｼｭ撮影会",
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
-          "event": "フレッシュ撮影会",
+          "event": "フレッシュ撮影会_Booty",
           "images": [],
           "highlights": [],
           "private_images": [],
@@ -1569,9 +1569,9 @@
           "nude": false
         },
         {
-          "folder": "20260628_ﾌﾚｯｼｭ撮影会",
+          "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
-          "event": "フレッシュ撮影会",
+          "event": "フレッシュ撮影会_Booty",
           "images": [],
           "highlights": [],
           "private_images": [],
@@ -2132,18 +2132,38 @@
       "name": "村上りいな",
       "source_folder": "★村上りいな",
       "display_name": "村上りいな",
-      "shoot_count": 1,
-      "last_shoot": "2026-06-28",
+      "shoot_count": 2,
+      "last_shoot": "2026-08-08",
       "reading": "",
       "attributes": [],
       "achievements": [],
       "birthdate": "",
       "shoots": [
         {
+          "folder": "20260808_Melty撮影会",
+          "date": "2026-08-08",
+          "event": "Melty撮影会",
+          "images": [
+            "shooting_images/村上りいな/20260808_Melty撮影会/map_1.jpg",
+            "shooting_images/村上りいな/20260808_Melty撮影会/map_2.jpg",
+            "shooting_images/村上りいな/20260808_Melty撮影会/map_3.jpg",
+            "shooting_images/村上りいな/20260808_Melty撮影会/map_4.jpg",
+            "shooting_images/村上りいな/20260808_Melty撮影会/map_5.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
+        {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
           "event": "フレッシュ撮影会_Booty",
-          "images": [],
+          "images": [
+            "shooting_images/村上りいな/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_1.jpg",
+            "shooting_images/村上りいな/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_2.jpg",
+            "shooting_images/村上りいな/20260628_ﾌﾚｯｼｭ撮影会_Booty/map_3.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
