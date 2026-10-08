@@ -1,8 +1,8 @@
 {
-  "app_version": "20261007215456",
+  "app_version": "20261008232944",
   "model_count": 149,
-  "updated_at": "2026-10-07T21:54:56+09:00",
-  "updated_display": "2026/10/07 21:54",
+  "updated_at": "2026-10-08T23:29:44+09:00",
+  "updated_display": "2026/10/08 23:29",
   "models": [
     {
       "name": "AOI",
@@ -358,20 +358,25 @@
     },
     {
       "name": "タグラン南",
-      "source_folder": "〇タグラン南",
+      "source_folder": "タグラン南",
       "display_name": "タグラン南",
       "shoot_count": 1,
       "last_shoot": "2026-09-27",
       "reading": "たぐらんみなみ",
-      "attributes": [],
+      "attributes": [
+        "モデル"
+      ],
       "achievements": [],
-      "birthdate": "",
+      "birthdate": "2001-07-22",
       "shoots": [
         {
           "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
           "date": "2026-09-27",
           "event": "はなまる2026大プール撮影会",
-          "images": [],
+          "images": [
+            "shooting_images/タグラン南/20260927_はなまる2026大ﾌﾟｰﾙ撮影会/map_1.jpg",
+            "shooting_images/タグラン南/20260927_はなまる2026大ﾌﾟｰﾙ撮影会/map_2.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -558,7 +563,7 @@
     },
     {
       "name": "三田悠貴",
-      "source_folder": "〇三田悠貴",
+      "source_folder": "三田悠貴",
       "display_name": "三田悠貴",
       "shoot_count": 1,
       "last_shoot": "2026-09-27",
@@ -567,13 +572,16 @@
         "グラビア"
       ],
       "achievements": [],
-      "birthdate": "",
+      "birthdate": "1998-05-07",
       "shoots": [
         {
           "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
           "date": "2026-09-27",
           "event": "はなまる2026大プール撮影会",
-          "images": [],
+          "images": [
+            "shooting_images/三田悠貴/20260927_はなまる2026大ﾌﾟｰﾙ撮影会/map_1.jpg",
+            "shooting_images/三田悠貴/20260927_はなまる2026大ﾌﾟｰﾙ撮影会/map_2.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -663,7 +671,7 @@
     },
     {
       "name": "丸山りさ",
-      "source_folder": "〇丸山りさ",
+      "source_folder": "丸山りさ",
       "display_name": "丸山りさ",
       "shoot_count": 1,
       "last_shoot": "2026-09-27",
@@ -672,13 +680,17 @@
         "グラビア"
       ],
       "achievements": [],
-      "birthdate": "",
+      "birthdate": "2000-04-14",
       "shoots": [
         {
           "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
           "date": "2026-09-27",
           "event": "はなまる2026大プール撮影会",
-          "images": [],
+          "images": [
+            "shooting_images/丸山りさ/20260927_はなまる2026大ﾌﾟｰﾙ撮影会/map_1.jpg",
+            "shooting_images/丸山りさ/20260927_はなまる2026大ﾌﾟｰﾙ撮影会/map_2.jpg",
+            "shooting_images/丸山りさ/20260927_はなまる2026大ﾌﾟｰﾙ撮影会/map_3.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -736,17 +748,42 @@
     },
     {
       "name": "二宮和香",
-      "source_folder": "★二宮和香",
+      "source_folder": "二宮和香",
       "display_name": "二宮和香",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "shoot_count": 1,
+      "last_shoot": "2026-07-25",
       "reading": "にのみやわか",
       "attributes": [
         "AV女優"
       ],
       "achievements": [],
       "birthdate": "",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20260725_プラスワン撮影会",
+          "date": "2026-07-25",
+          "event": "プラスワン撮影会",
+          "images": [
+            "shooting_images/二宮和香/20260725_プラスワン撮影会/map_1.jpg",
+            "shooting_images/二宮和香/20260725_プラスワン撮影会/map_2.jpg"
+          ],
+          "highlights": [],
+          "private_images": [
+            "shooting_images/二宮和香/20260725_プラスワン撮影会/sexy_1.jpg",
+            "shooting_images/二宮和香/20260725_プラスワン撮影会/sexy_10.jpg",
+            "shooting_images/二宮和香/20260725_プラスワン撮影会/sexy_2.jpg",
+            "shooting_images/二宮和香/20260725_プラスワン撮影会/sexy_3.jpg",
+            "shooting_images/二宮和香/20260725_プラスワン撮影会/sexy_4.jpg",
+            "shooting_images/二宮和香/20260725_プラスワン撮影会/sexy_5.jpg",
+            "shooting_images/二宮和香/20260725_プラスワン撮影会/sexy_6.jpg",
+            "shooting_images/二宮和香/20260725_プラスワン撮影会/sexy_7.jpg",
+            "shooting_images/二宮和香/20260725_プラスワン撮影会/sexy_8.jpg",
+            "shooting_images/二宮和香/20260725_プラスワン撮影会/sexy_9.jpg"
+          ],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "仁藤りさ",
@@ -805,7 +842,7 @@
     },
     {
       "name": "佐々木萌香",
-      "source_folder": "〇佐々木萌香",
+      "source_folder": "佐々木萌香",
       "display_name": "佐々木萌香",
       "shoot_count": 1,
       "last_shoot": "2026-09-27",
@@ -814,13 +851,15 @@
         "グラビア・RQ"
       ],
       "achievements": [],
-      "birthdate": "",
+      "birthdate": "1997-11-22",
       "shoots": [
         {
           "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
           "date": "2026-09-27",
           "event": "はなまる2026大プール撮影会",
-          "images": [],
+          "images": [
+            "shooting_images/佐々木萌香/20260927_はなまる2026大ﾌﾟｰﾙ撮影会/map_1.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -1287,12 +1326,14 @@
     },
     {
       "name": "夏智なちこ",
-      "source_folder": "〇夏智なちこ",
+      "source_folder": "夏智なちこ",
       "display_name": "夏智なちこ",
       "shoot_count": 1,
       "last_shoot": "2026-09-27",
       "reading": "なちなちこ",
-      "attributes": [],
+      "attributes": [
+        "グラビア"
+      ],
       "achievements": [],
       "birthdate": "",
       "shoots": [
@@ -1300,7 +1341,9 @@
           "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
           "date": "2026-09-27",
           "event": "はなまる2026大プール撮影会",
-          "images": [],
+          "images": [
+            "shooting_images/夏智なちこ/20260927_はなまる2026大ﾌﾟｰﾙ撮影会/map_1.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -1661,20 +1704,24 @@
     },
     {
       "name": "山田あい",
-      "source_folder": "〇山田あい",
+      "source_folder": "山田あい",
       "display_name": "山田あい",
       "shoot_count": 1,
       "last_shoot": "2026-09-27",
-      "reading": "",
-      "attributes": [],
+      "reading": "やまだあい",
+      "attributes": [
+        "グラビア"
+      ],
       "achievements": [],
-      "birthdate": "",
+      "birthdate": "2003-09-11",
       "shoots": [
         {
           "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
           "date": "2026-09-27",
           "event": "はなまる2026大プール撮影会",
-          "images": [],
+          "images": [
+            "shooting_images/山田あい/20260927_はなまる2026大ﾌﾟｰﾙ撮影会/map_1.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -1839,10 +1886,12 @@
       "display_name": "愛Ris",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
-      "reading": "",
-      "attributes": [],
+      "reading": "あいりす",
+      "attributes": [
+        "アイドル"
+      ],
       "achievements": [],
-      "birthdate": "",
+      "birthdate": "2010-05-21",
       "shoots": [
         {
           "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
@@ -1908,21 +1957,27 @@
       ]
     },
     {
-      "name": "愛沢のあ(Secret Memory )",
-      "source_folder": "〇愛沢のあ(Secret Memory )",
-      "display_name": "愛沢のあ(Secret Memory )",
+      "name": "愛沢のあ",
+      "source_folder": "愛沢のあ(Secret Memory )",
+      "display_name": "愛沢のあ",
       "shoot_count": 1,
       "last_shoot": "2026-07-29",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
+      "reading": "あいざわのあ",
+      "attributes": [
+        "アイドル"
+      ],
+      "achievements": [
+        "Secret Memory"
+      ],
       "birthdate": "",
       "shoots": [
         {
           "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
           "event": "フレッシュ撮影会_メタルヒロイン",
-          "images": [],
+          "images": [
+            "shooting_images/愛沢のあ/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -2130,7 +2185,7 @@
     },
     {
       "name": "村上りいな",
-      "source_folder": "★村上りいな",
+      "source_folder": "村上りいな",
       "display_name": "村上りいな",
       "shoot_count": 2,
       "last_shoot": "2026-08-08",
@@ -3047,10 +3102,12 @@
       "display_name": "皆代",
       "shoot_count": 4,
       "last_shoot": "2026-08-31",
-      "reading": "",
+      "reading": "みなよ",
       "attributes": [],
-      "achievements": [],
-      "birthdate": "",
+      "achievements": [
+        "浜田美希"
+      ],
+      "birthdate": "2002-11-12",
       "shoots": [
         {
           "folder": "20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション",
@@ -3403,14 +3460,16 @@
       ]
     },
     {
-      "name": "美波那緒(アルテミスの翼)",
+      "name": "美波那緒",
       "source_folder": "美波那緒(ｱﾙﾃﾐｽの翼)",
-      "display_name": "美波那緒(アルテミスの翼)",
+      "display_name": "美波那緒",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "アルテミスの翼"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -3426,14 +3485,16 @@
       ]
     },
     {
-      "name": "羽原ミ夏(ミライサガシ)",
+      "name": "羽原ミ夏",
       "source_folder": "羽原ミ夏(ﾐﾗｲｻｶﾞｼ)",
-      "display_name": "羽原ミ夏(ミライサガシ)",
+      "display_name": "羽原ミ夏",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "ミライサガシ"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -3450,20 +3511,27 @@
     },
     {
       "name": "至月みな",
-      "source_folder": "〇至月みな",
+      "source_folder": "至月みな",
       "display_name": "至月みな",
       "shoot_count": 1,
       "last_shoot": "2026-07-29",
-      "reading": "",
-      "attributes": [],
+      "reading": "いづきみな",
+      "attributes": [
+        "グラビア"
+      ],
       "achievements": [],
-      "birthdate": "",
+      "birthdate": "2026-10-10",
       "shoots": [
         {
           "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
           "event": "フレッシュ撮影会_メタルヒロイン",
-          "images": [],
+          "images": [
+            "shooting_images/至月みな/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/至月みな/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
+            "shooting_images/至月みな/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
+            "shooting_images/至月みな/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -3473,20 +3541,26 @@
     },
     {
       "name": "花咲楓香",
-      "source_folder": "〇花咲楓香",
+      "source_folder": "花咲楓香",
       "display_name": "花咲楓香",
       "shoot_count": 2,
       "last_shoot": "2026-07-29",
-      "reading": "",
-      "attributes": [],
+      "reading": "はなさきふうか",
+      "attributes": [
+        "グラビア"
+      ],
       "achievements": [],
-      "birthdate": "",
+      "birthdate": "2001-09-30",
       "shoots": [
         {
           "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
           "event": "フレッシュ撮影会_メタルヒロイン",
-          "images": [],
+          "images": [
+            "shooting_images/花咲楓香/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/花咲楓香/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
+            "shooting_images/花咲楓香/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -3496,7 +3570,11 @@
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
           "event": "フレッシュ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
-          "images": [],
+          "images": [
+            "shooting_images/花咲楓香/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_1.jpg",
+            "shooting_images/花咲楓香/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_2.jpg",
+            "shooting_images/花咲楓香/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_3.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -3528,14 +3606,16 @@
       ]
     },
     {
-      "name": "萌乃ゆき(RiNCENT♯)",
+      "name": "萌乃ゆき",
       "source_folder": "萌乃ゆき(RiNCENT♯)",
-      "display_name": "萌乃ゆき(RiNCENT♯)",
+      "display_name": "萌乃ゆき",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "RiNCENT♯"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -3552,20 +3632,27 @@
     },
     {
       "name": "葵くみ",
-      "source_folder": "〇葵くみ",
+      "source_folder": "葵くみ",
       "display_name": "葵くみ",
       "shoot_count": 1,
       "last_shoot": "2026-09-27",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
-      "birthdate": "",
+      "reading": "あおいくみ",
+      "attributes": [
+        "モデル・RQ"
+      ],
+      "achievements": [
+        "元読売ジャイアンツVenus"
+      ],
+      "birthdate": "1999-02-11",
       "shoots": [
         {
           "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
           "date": "2026-09-27",
           "event": "はなまる2026大プール撮影会",
-          "images": [],
+          "images": [
+            "shooting_images/葵くみ/20260927_はなまる2026大ﾌﾟｰﾙ撮影会/map_1.jpg",
+            "shooting_images/葵くみ/20260927_はなまる2026大ﾌﾟｰﾙ撮影会/map_2.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -3574,14 +3661,16 @@
       ]
     },
     {
-      "name": "葵つむぎ(すてねこキャッツ)",
+      "name": "葵つむぎ",
       "source_folder": "葵つむぎ(すてねこｷｬｯﾂ)",
-      "display_name": "葵つむぎ(すてねこキャッツ)",
+      "display_name": "葵つむぎ",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "すてねこキャッツ"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -3660,14 +3749,16 @@
       ]
     },
     {
-      "name": "藍瀬ゆき(SMiLE DROP)",
+      "name": "藍瀬ゆき",
       "source_folder": "藍瀬ゆき(SMiLE DROP)",
-      "display_name": "藍瀬ゆき(SMiLE DROP)",
+      "display_name": "藍瀬ゆき",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "SmiLE DROP"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -3706,14 +3797,16 @@
       ]
     },
     {
-      "name": "藤田芽愛(Grande Armée)",
+      "name": "藤田芽愛",
       "source_folder": "藤田芽愛(Grande Armée)",
-      "display_name": "藤田芽愛(Grande Armée)",
+      "display_name": "藤田芽愛",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "",
       "attributes": [],
-      "achievements": [],
+      "achievements": [
+        "Grande Armée"
+      ],
       "birthdate": "",
       "shoots": [
         {
@@ -3782,13 +3875,28 @@
       "name": "酒井穂乃香",
       "source_folder": "〇酒井穂乃香",
       "display_name": "酒井穂乃香",
-      "shoot_count": 0,
-      "last_shoot": null,
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
-      "birthdate": "",
-      "shoots": []
+      "shoot_count": 1,
+      "last_shoot": "2026-08-31",
+      "reading": "さかいほのか",
+      "attributes": [
+        "グラビア"
+      ],
+      "achievements": [
+        "ミス湘南2024GP"
+      ],
+      "birthdate": "1996-08-25",
+      "shoots": [
+        {
+          "folder": "20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション",
+          "date": "2026-08-31",
+          "event": "フレッシュ撮影会_last summer Wセッション",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "鈴心かりん(Crews of CamelliA)",
@@ -3960,20 +4068,24 @@
     },
     {
       "name": "高崎かなみ",
-      "source_folder": "〇高崎かなみ",
+      "source_folder": "高崎かなみ",
       "display_name": "高崎かなみ",
       "shoot_count": 1,
       "last_shoot": "2026-09-27",
-      "reading": "",
-      "attributes": [],
+      "reading": "たかさきかなみ",
+      "attributes": [
+        "グラビア"
+      ],
       "achievements": [],
-      "birthdate": "",
+      "birthdate": "1997-07-14",
       "shoots": [
         {
           "folder": "20260927_はなまる2026大ﾌﾟｰﾙ撮影会",
           "date": "2026-09-27",
           "event": "はなまる2026大プール撮影会",
-          "images": [],
+          "images": [
+            "shooting_images/高崎かなみ/20260927_はなまる2026大ﾌﾟｰﾙ撮影会/map_1.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
