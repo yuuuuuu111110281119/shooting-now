@@ -1,8 +1,8 @@
 {
-  "app_version": "20261012175705",
+  "app_version": "20261012214804",
   "model_count": 237,
-  "updated_at": "2026-10-12T17:57:05+09:00",
-  "updated_display": "2026/10/12 17:57",
+  "updated_at": "2026-10-12T21:48:04+09:00",
+  "updated_display": "2026/10/12 21:48",
   "models": [
     {
       "name": "AOI",
@@ -5915,7 +5915,7 @@
     },
     {
       "name": "西原綾美",
-      "source_folder": "〇西原綾美",
+      "source_folder": "西原綾美",
       "display_name": "西原綾美",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
