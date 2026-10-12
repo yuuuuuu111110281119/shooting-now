@@ -1,8 +1,8 @@
 {
-  "app_version": "20261012142621",
+  "app_version": "20261012164236",
   "model_count": 237,
-  "updated_at": "2026-10-12T14:26:21+09:00",
-  "updated_display": "2026/10/12 14:26",
+  "updated_at": "2026-10-12T16:42:36+09:00",
+  "updated_display": "2026/10/12 16:42",
   "models": [
     {
       "name": "AOI",
@@ -1660,10 +1660,12 @@
       "display_name": "叶野",
       "shoot_count": 0,
       "last_shoot": null,
-      "reading": "",
-      "attributes": [],
+      "reading": "かのほのか",
+      "attributes": [
+        "グラビア"
+      ],
       "achievements": [],
-      "birthdate": "",
+      "birthdate": "2026-05-13",
       "shoots": []
     },
     {
@@ -4882,10 +4884,14 @@
       "display_name": "矢沢あい",
       "shoot_count": 1,
       "last_shoot": "2026-08-06",
-      "reading": "",
-      "attributes": [],
-      "achievements": [],
-      "birthdate": "",
+      "reading": "やざわめい",
+      "attributes": [
+        "グラビア"
+      ],
+      "achievements": [
+        "2026年8月　引退"
+      ],
+      "birthdate": "1997-06-30",
       "shoots": [
         {
           "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート",
