@@ -1,8 +1,8 @@
 {
-  "app_version": "20261014085124",
+  "app_version": "20261014202755",
   "model_count": 237,
-  "updated_at": "2026-10-14T08:51:24+09:00",
-  "updated_display": "2026/10/14 08:51",
+  "updated_at": "2026-10-14T20:27:55+09:00",
+  "updated_display": "2026/10/14 20:27",
   "models": [
     {
       "name": "AOI",
@@ -266,8 +266,8 @@
       "name": "ごみちゃん",
       "source_folder": "〇ごみちゃん",
       "display_name": "ごみちゃん",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "ごみちゃん",
       "attributes": [
         "ドラマー"
@@ -276,7 +276,21 @@
         "(日向みのり)"
       ],
       "birthdate": "1997-11-24",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/ごみちゃん/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/ごみちゃん/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "しずかちゃん",
@@ -441,7 +455,7 @@
     },
     {
       "name": "ぽにょ。",
-      "source_folder": "〇ぽにょ。",
+      "source_folder": "ぽにょ。",
       "display_name": "ぽにょ。",
       "shoot_count": 0,
       "last_shoot": null,
@@ -881,8 +895,8 @@
       "name": "並木かえで",
       "source_folder": "並木かえで",
       "display_name": "並木かえで",
-      "shoot_count": 1,
-      "last_shoot": "2026-07-19",
+      "shoot_count": 2,
+      "last_shoot": "2026-10-04",
       "reading": "なみきかえで",
       "attributes": [
         "グラビア"
@@ -890,6 +904,20 @@
       "achievements": [],
       "birthdate": "",
       "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/並木かえで/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/並木かえで/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/並木かえで/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
         {
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
@@ -1277,7 +1305,15 @@
           "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
           "date": "2026-10-04",
           "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
-          "images": [],
+          "images": [
+            "shooting_images/佐野エリカ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/佐野エリカ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/佐野エリカ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg",
+            "shooting_images/佐野エリカ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_4.jpg",
+            "shooting_images/佐野エリカ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_5.jpg",
+            "shooting_images/佐野エリカ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_6.jpg",
+            "shooting_images/佐野エリカ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_7.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -1388,7 +1424,7 @@
     },
     {
       "name": "加賀かなみ",
-      "source_folder": "〇加賀かなみ",
+      "source_folder": "加賀かなみ",
       "display_name": "加賀かなみ",
       "shoot_count": 0,
       "last_shoot": null,
@@ -1402,17 +1438,43 @@
     },
     {
       "name": "北園ゆう",
-      "source_folder": "〇北園ゆう",
+      "source_folder": "北園ゆう",
       "display_name": "北園ゆう",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "きたぞのゆう",
       "attributes": [
         "グラビア"
       ],
       "achievements": [],
       "birthdate": "1995-02-27",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/北園ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/北園ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_10.jpg",
+            "shooting_images/北園ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_11.jpg",
+            "shooting_images/北園ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_12.jpg",
+            "shooting_images/北園ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_13.jpg",
+            "shooting_images/北園ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_14.jpg",
+            "shooting_images/北園ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/北園ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg",
+            "shooting_images/北園ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_4.jpg",
+            "shooting_images/北園ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_5.jpg",
+            "shooting_images/北園ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_6.jpg",
+            "shooting_images/北園ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_7.jpg",
+            "shooting_images/北園ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_8.jpg",
+            "shooting_images/北園ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_9.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "千原彩叶",
@@ -1460,8 +1522,8 @@
       "name": "千歳ゆず",
       "source_folder": "千歳ゆず",
       "display_name": "千歳ゆず",
-      "shoot_count": 1,
-      "last_shoot": "2026-08-06",
+      "shoot_count": 2,
+      "last_shoot": "2026-10-04",
       "reading": "ちとせゆず",
       "attributes": [
         "グラビア"
@@ -1469,6 +1531,26 @@
       "achievements": [],
       "birthdate": "2005-10-27",
       "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/千歳ゆず/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/千歳ゆず/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/千歳ゆず/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg",
+            "shooting_images/千歳ゆず/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_4.jpg",
+            "shooting_images/千歳ゆず/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_5.jpg",
+            "shooting_images/千歳ゆず/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_6.jpg",
+            "shooting_images/千歳ゆず/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_7.jpg",
+            "shooting_images/千歳ゆず/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_8.jpg",
+            "shooting_images/千歳ゆず/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_9.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
         {
           "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート",
           "date": "2026-08-06",
@@ -2176,9 +2258,9 @@
     },
     {
       "name": "奥泉奏",
-      "source_folder": "〇奥泉奏",
+      "source_folder": "奥泉奏",
       "display_name": "奥泉奏",
-      "shoot_count": 3,
+      "shoot_count": 4,
       "last_shoot": "2026-10-11",
       "reading": "おくいずみかなで",
       "attributes": [
@@ -2193,7 +2275,26 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/奥泉奏/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/奥泉奏/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/奥泉奏/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/奥泉奏/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/奥泉奏/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/奥泉奏/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/奥泉奏/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -3223,17 +3324,43 @@
     },
     {
       "name": "最上ゆに",
-      "source_folder": "〇最上ゆに",
+      "source_folder": "最上ゆに",
       "display_name": "最上ゆに",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "もがみゆに",
       "attributes": [
         "グラビア"
       ],
       "achievements": [],
       "birthdate": "2001-08-07",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_10.jpg",
+            "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_11.jpg",
+            "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_12.jpg",
+            "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_13.jpg",
+            "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_14.jpg",
+            "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg",
+            "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_4.jpg",
+            "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_5.jpg",
+            "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_6.jpg",
+            "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_7.jpg",
+            "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_8.jpg",
+            "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_9.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "有川燈莉",
@@ -3456,8 +3583,8 @@
       "name": "松本みいな",
       "source_folder": "松本みいな",
       "display_name": "松本みいな",
-      "shoot_count": 1,
-      "last_shoot": "2026-06-28",
+      "shoot_count": 2,
+      "last_shoot": "2026-10-04",
       "reading": "まつもとみいな",
       "attributes": [
         "グラビア"
@@ -3467,6 +3594,21 @@
       ],
       "birthdate": "2026-10-26",
       "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/松本みいな/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/松本みいな/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/松本みいな/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg",
+            "shooting_images/松本みいな/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_4.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
@@ -3510,10 +3652,10 @@
     },
     {
       "name": "板野優花",
-      "source_folder": "〇板野優花",
+      "source_folder": "板野優花",
       "display_name": "板野優花",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "いたのゆうか",
       "attributes": [
         "グラビア"
@@ -3522,7 +3664,26 @@
         "ミスヤングチャンピオン2023グランプリ"
       ],
       "birthdate": "1993-09-05",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/板野優花/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/板野優花/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/板野優花/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg",
+            "shooting_images/板野優花/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_4.jpg",
+            "shooting_images/板野優花/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_5.jpg",
+            "shooting_images/板野優花/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_6.jpg",
+            "shooting_images/板野優花/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_7.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "林未珠",
@@ -4094,7 +4255,7 @@
     },
     {
       "name": "永瀬永茉",
-      "source_folder": "〇永瀬永茉",
+      "source_folder": "永瀬永茉",
       "display_name": "永瀬永茉",
       "shoot_count": 0,
       "last_shoot": null,
@@ -4108,7 +4269,7 @@
     },
     {
       "name": "永瀬雪衣",
-      "source_folder": "〇永瀬雪衣",
+      "source_folder": "永瀬雪衣",
       "display_name": "永瀬雪衣",
       "shoot_count": 0,
       "last_shoot": null,
@@ -4203,8 +4364,8 @@
       "name": "河野亜季子",
       "source_folder": "河野亜季子",
       "display_name": "河野亜季子",
-      "shoot_count": 2,
-      "last_shoot": "2026-07-19",
+      "shoot_count": 3,
+      "last_shoot": "2026-10-04",
       "reading": "こうのあきこ",
       "attributes": [
         "グラビア"
@@ -4212,6 +4373,24 @@
       "achievements": [],
       "birthdate": "2026-03-17",
       "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/河野亜季子/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/河野亜季子/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/河野亜季子/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg",
+            "shooting_images/河野亜季子/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_4.jpg",
+            "shooting_images/河野亜季子/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_5.jpg",
+            "shooting_images/河野亜季子/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_6.jpg",
+            "shooting_images/河野亜季子/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_7.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
         {
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
@@ -4315,8 +4494,8 @@
       "name": "清宮みいな",
       "source_folder": "清宮みいな",
       "display_name": "清宮みいな",
-      "shoot_count": 1,
-      "last_shoot": "2026-07-19",
+      "shoot_count": 2,
+      "last_shoot": "2026-10-04",
       "reading": "きよみやみいな",
       "attributes": [
         "グラビア"
@@ -4324,6 +4503,19 @@
       "achievements": [],
       "birthdate": "2001-06-23",
       "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/清宮みいな/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/清宮みいな/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
         {
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
@@ -5252,8 +5444,8 @@
       "name": "秋田そな",
       "source_folder": "秋田そな",
       "display_name": "秋田そな",
-      "shoot_count": 1,
-      "last_shoot": "2026-07-19",
+      "shoot_count": 2,
+      "last_shoot": "2026-10-04",
       "reading": "あきたそな",
       "attributes": [
         "グラビア"
@@ -5261,6 +5453,19 @@
       "achievements": [],
       "birthdate": "2004-12-25",
       "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/秋田そな/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/秋田そな/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
         {
           "folder": "20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2",
           "date": "2026-07-19",
@@ -5389,7 +5594,7 @@
     },
     {
       "name": "綾葉遥香",
-      "source_folder": "〇綾葉遥香",
+      "source_folder": "綾葉遥香",
       "display_name": "綾葉遥香",
       "shoot_count": 0,
       "last_shoot": null,
@@ -5510,7 +5715,7 @@
     },
     {
       "name": "芦名ほのか",
-      "source_folder": "〇芦名ほのか",
+      "source_folder": "芦名ほのか",
       "display_name": "芦名ほのか",
       "shoot_count": 0,
       "last_shoot": null,
@@ -6215,8 +6420,8 @@
       "name": "雪村花鈴",
       "source_folder": "雪村花鈴",
       "display_name": "雪村花鈴",
-      "shoot_count": 1,
-      "last_shoot": "2026-06-28",
+      "shoot_count": 2,
+      "last_shoot": "2026-10-04",
       "reading": "ゆきむらかりん",
       "attributes": [
         "グラビア"
@@ -6224,6 +6429,19 @@
       "achievements": [],
       "birthdate": "2001-12-28",
       "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/雪村花鈴/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/雪村花鈴/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
@@ -6316,7 +6534,7 @@
     },
     {
       "name": "音羽なぎ",
-      "source_folder": "〇音羽なぎ",
+      "source_folder": "音羽なぎ",
       "display_name": "音羽なぎ",
       "shoot_count": 0,
       "last_shoot": null,
@@ -6397,8 +6615,8 @@
       "name": "高峰じゅり",
       "source_folder": "高峰じゅり",
       "display_name": "高峰じゅり",
-      "shoot_count": 1,
-      "last_shoot": "2026-06-28",
+      "shoot_count": 2,
+      "last_shoot": "2026-10-04",
       "reading": "たかみねじゅり",
       "attributes": [
         "グラビア"
@@ -6406,6 +6624,21 @@
       "achievements": [],
       "birthdate": "2003-12-09",
       "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/高峰じゅり/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/高峰じゅり/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/高峰じゅり/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg",
+            "shooting_images/高峰じゅり/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_4.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
         {
           "folder": "20260628_ﾌﾚｯｼｭ撮影会_Booty",
           "date": "2026-06-28",
