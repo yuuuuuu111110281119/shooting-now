@@ -1,8 +1,8 @@
 {
-  "app_version": "20261014202755",
+  "app_version": "20261014204028",
   "model_count": 237,
-  "updated_at": "2026-10-14T20:27:55+09:00",
-  "updated_display": "2026/10/14 20:27",
+  "updated_at": "2026-10-14T20:40:28+09:00",
+  "updated_display": "2026/10/14 20:40",
   "models": [
     {
       "name": "AOI",
@@ -971,7 +971,9 @@
       "attributes": [
         "グラビア"
       ],
-      "achievements": [],
+      "achievements": [
+        "ミスFLASH2025 グランプリ"
+      ],
       "birthdate": "2000-04-14",
       "shoots": [
         {
