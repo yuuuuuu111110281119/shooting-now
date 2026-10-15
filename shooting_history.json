@@ -1,8 +1,8 @@
 {
-  "app_version": "20261015205721",
+  "app_version": "20261015211352",
   "model_count": 237,
-  "updated_at": "2026-10-15T20:57:21+09:00",
-  "updated_display": "2026/10/15 20:57",
+  "updated_at": "2026-10-15T21:13:52+09:00",
+  "updated_display": "2026/10/15 21:13",
   "models": [
     {
       "name": "AOI",
@@ -1744,18 +1744,29 @@
       ]
     },
     {
-      "name": "叶野",
-      "source_folder": "叶野",
-      "display_name": "叶野",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "name": "叶野僾",
+      "source_folder": "叶野僾",
+      "display_name": "叶野僾",
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "かのほのか",
       "attributes": [
         "グラビア"
       ],
       "achievements": [],
       "birthdate": "2026-05-13",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "吉澤友貴",
@@ -2113,7 +2124,7 @@
         "グラビア"
       ],
       "achievements": [],
-      "birthdate": "",
+      "birthdate": "#VALUE!",
       "shoots": []
     },
     {
