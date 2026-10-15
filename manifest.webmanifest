@@ -1,15 +1,23 @@
 {
-  "name": "撮影会NOW",
-  "short_name": "撮影会NOW",
-  "description": "撮影会の出演者・現在地・タイムテーブル・会場マップをまとめて確認",
+  "name": "推しマップ",
+  "short_name": "推しマップ",
+  "description": "撮影会の出演者・履歴・現在地・タイムテーブル・会場マップをまとめて確認",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f7fb",
-  "theme_color": "#f5f7fb",
+  "background_color": "#000000",
+  "theme_color": "#000000",
   "lang": "ja",
   "icons": [
-    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},
-    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
