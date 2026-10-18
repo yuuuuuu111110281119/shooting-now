@@ -1,8 +1,8 @@
 {
-  "app_version": "20261018101640",
+  "app_version": "20261018200525",
   "model_count": 239,
-  "updated_at": "2026-10-18T10:16:40+09:00",
-  "updated_display": "2026/10/18 10:16",
+  "updated_at": "2026-10-18T20:05:25+09:00",
+  "updated_display": "2026/10/18 20:05",
   "models": [
     {
       "name": "AOI",
@@ -39,7 +39,7 @@
       "name": "HANA",
       "source_folder": "HANA(ﾁｰﾑﾊﾚﾙﾔ)",
       "display_name": "HANA",
-      "profile_image": "",
+      "profile_image": "shooting_images/HANA/profile-f10191bde40dffd2.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "HANA",
@@ -99,7 +99,7 @@
       "name": "LiLiCa",
       "source_folder": "LiLiCa(SuperSparkTokyo)",
       "display_name": "LiLiCa",
-      "profile_image": "",
+      "profile_image": "shooting_images/LiLiCa/profile-7c50e2c850a3344a.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "LiLiCa",
@@ -191,7 +191,7 @@
       "name": "Tsumu",
       "source_folder": "Tsumu",
       "display_name": "Tsumu",
-      "profile_image": "",
+      "profile_image": "shooting_images/Tsumu/profile-7ee12bf2d261a25b.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "つむ",
@@ -554,8 +554,10 @@
       "profile_image": "",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
-      "reading": "",
-      "attributes": [],
+      "reading": "わか",
+      "attributes": [
+        "グラビア"
+      ],
       "achievements": [],
       "birthdate": "",
       "shoots": [
@@ -1795,7 +1797,7 @@
       "name": "卯雪はな",
       "source_folder": "〇卯雪はな",
       "display_name": "卯雪はな",
-      "profile_image": "",
+      "profile_image": "shooting_images/卯雪はな/profile-123c812265b367d9.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "うゆきはな",
@@ -1809,7 +1811,10 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/卯雪はな/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/卯雪はな/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -2263,7 +2268,7 @@
       "name": "夏木のぞみ",
       "source_folder": "〇夏木のぞみ",
       "display_name": "夏木のぞみ",
-      "profile_image": "",
+      "profile_image": "shooting_images/夏木のぞみ/profile-fad261b5f9f95f6b.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "なつきのぞみ",
@@ -2277,7 +2282,13 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/夏木のぞみ/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/夏木のぞみ/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/夏木のぞみ/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/夏木のぞみ/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg",
+            "shooting_images/夏木のぞみ/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_5.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -2357,7 +2368,7 @@
         "グラビア"
       ],
       "achievements": [],
-      "birthdate": "",
+      "birthdate": "#VALUE!",
       "shoots": []
     },
     {
@@ -2626,9 +2637,9 @@
     },
     {
       "name": "宇佐美彩乃",
-      "source_folder": "〇宇佐美彩乃",
+      "source_folder": "宇佐美彩乃",
       "display_name": "宇佐美彩乃",
-      "profile_image": "",
+      "profile_image": "shooting_images/宇佐美彩乃/profile-6d6ffcf02a42cda2.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "うさみあやの",
@@ -2642,7 +2653,13 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/宇佐美彩乃/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/宇佐美彩乃/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/宇佐美彩乃/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/宇佐美彩乃/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg",
+            "shooting_images/宇佐美彩乃/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_5.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -2654,7 +2671,7 @@
       "name": "宇野まや",
       "source_folder": "〇宇野まや",
       "display_name": "宇野まや",
-      "profile_image": "",
+      "profile_image": "shooting_images/宇野まや/profile-b8761d91f51a7889.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "うのまや",
@@ -2670,7 +2687,14 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/宇野まや/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/宇野まや/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/宇野まや/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/宇野まや/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg",
+            "shooting_images/宇野まや/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_5.jpg",
+            "shooting_images/宇野まや/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_6.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -2756,7 +2780,7 @@
       "name": "宮地蘭来",
       "source_folder": "〇宮地蘭来",
       "display_name": "宮地蘭来",
-      "profile_image": "",
+      "profile_image": "shooting_images/宮地蘭来/profile-0cf240050223938c.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "みやちらら",
@@ -2764,7 +2788,7 @@
         "アイドル"
       ],
       "achievements": [
-        "-黎明リフレイン-"
+        "-黎明リフレイン- ・ミスFLASH2023ファイナリスト"
       ],
       "birthdate": "2005-04-26",
       "shoots": [
@@ -2772,7 +2796,12 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/宮地蘭来/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/宮地蘭来/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/宮地蘭来/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/宮地蘭来/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -3097,7 +3126,7 @@
       "name": "岡田みなも",
       "source_folder": "〇岡田みなも",
       "display_name": "岡田みなも",
-      "profile_image": "",
+      "profile_image": "shooting_images/岡田みなも/profile-b151933a5043b07e.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "おかだみなも",
@@ -3113,7 +3142,9 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/岡田みなも/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -3298,7 +3329,9 @@
       "attributes": [
         "グラビア"
       ],
-      "achievements": [],
+      "achievements": [
+        "ミスFLASH2023  グランプリ"
+      ],
       "birthdate": "1995-11-30",
       "shoots": [
         {
@@ -3362,7 +3395,7 @@
       "name": "愛Ris",
       "source_folder": "愛Ris",
       "display_name": "愛Ris",
-      "profile_image": "",
+      "profile_image": "shooting_images/愛Ris/profile-ca9a202a606d2b15.jpg",
       "shoot_count": 2,
       "last_shoot": "2026-10-11",
       "reading": "あいりす",
@@ -3413,7 +3446,7 @@
       "name": "愛才りあ",
       "source_folder": "愛才りあ",
       "display_name": "愛才りあ",
-      "profile_image": "",
+      "profile_image": "shooting_images/愛才りあ/profile-6f826f6b7594444e.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "あいせりあ",
@@ -3441,7 +3474,7 @@
       "name": "愛染のえる",
       "source_folder": "愛染のえる",
       "display_name": "愛染のえる",
-      "profile_image": "",
+      "profile_image": "shooting_images/愛染のえる/profile-c2364871771ee8b7.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-06-28",
       "reading": "あいぜんのえる",
@@ -3469,7 +3502,7 @@
       "name": "愛沢のあ",
       "source_folder": "愛沢のあ(Secret Memory )",
       "display_name": "愛沢のあ",
-      "profile_image": "",
+      "profile_image": "shooting_images/愛沢のあ/profile-de58e634b58ed792.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-07-29",
       "reading": "あいざわのあ",
@@ -4411,21 +4444,27 @@
       "name": "橘舞",
       "source_folder": "〇橘舞",
       "display_name": "橘舞",
-      "profile_image": "",
+      "profile_image": "shooting_images/橘舞/profile-79756e32c6554778.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "たちばなまい",
       "attributes": [
         "グラビア"
       ],
-      "achievements": [],
+      "achievements": [
+        "ミスFLASH2023  グランプリ"
+      ],
       "birthdate": "2026-04-15",
       "shoots": [
         {
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/橘舞/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/橘舞/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/橘舞/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -4437,7 +4476,7 @@
       "name": "櫻井まち",
       "source_folder": "〇櫻井まち",
       "display_name": "櫻井まち",
-      "profile_image": "",
+      "profile_image": "shooting_images/櫻井まち/profile-b99b3258132c4740.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "さくらいまち",
@@ -4451,7 +4490,14 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/櫻井まち/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/櫻井まち/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/櫻井まち/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/櫻井まち/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg",
+            "shooting_images/櫻井まち/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_5.jpg",
+            "shooting_images/櫻井まち/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_6.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -4755,7 +4801,7 @@
       "name": "河北あいる",
       "source_folder": "〇河北あいる",
       "display_name": "河北あいる",
-      "profile_image": "",
+      "profile_image": "shooting_images/河北あいる/profile-387a82eafa0d49fa.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "かわきたあいる",
@@ -4769,7 +4815,15 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/河北あいる/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/河北あいる/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/河北あいる/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/河北あいる/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg",
+            "shooting_images/河北あいる/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_5.jpg",
+            "shooting_images/河北あいる/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_6.jpg",
+            "shooting_images/河北あいる/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_7.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -5675,7 +5729,7 @@
       "name": "碧井菜月",
       "source_folder": "〇碧井菜月",
       "display_name": "碧井菜月",
-      "profile_image": "",
+      "profile_image": "shooting_images/碧井菜月/profile-c0dcf6310452ebcd.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "あおいなつき",
@@ -6367,7 +6421,7 @@
       "name": "葵くみ",
       "source_folder": "葵くみ",
       "display_name": "葵くみ",
-      "profile_image": "",
+      "profile_image": "shooting_images/葵くみ/profile-4823c1b29f7c2ece.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-27",
       "reading": "あおいくみ",
@@ -6398,7 +6452,7 @@
       "name": "葵つむぎ",
       "source_folder": "葵つむぎ(すてねこｷｬｯﾂ)",
       "display_name": "葵つむぎ",
-      "profile_image": "",
+      "profile_image": "shooting_images/葵つむぎ/profile-77bffe054053582e.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "あおいつむぎ",
@@ -6429,7 +6483,7 @@
       "name": "蒼井めるだ",
       "source_folder": "〇蒼井めるだ",
       "display_name": "蒼井めるだ",
-      "profile_image": "",
+      "profile_image": "shooting_images/蒼井めるだ/profile-a7be4962158af538.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "あおいめるだ",
@@ -6559,7 +6613,7 @@
       "name": "藍瀬ゆき",
       "source_folder": "藍瀬ゆき(SMiLE DROP)",
       "display_name": "藍瀬ゆき",
-      "profile_image": "",
+      "profile_image": "shooting_images/藍瀬ゆき/profile-97191a1b13f6d6c2.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "あいせゆき",
@@ -6960,7 +7014,7 @@
       "name": "雪村花鈴",
       "source_folder": "雪村花鈴",
       "display_name": "雪村花鈴",
-      "profile_image": "",
+      "profile_image": "shooting_images/雪村花鈴/profile-fb964dc26fe6349e.jpg",
       "shoot_count": 2,
       "last_shoot": "2026-10-04",
       "reading": "ゆきむらかりん",
@@ -6976,7 +7030,10 @@
           "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
           "images": [
             "shooting_images/雪村花鈴/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
-            "shooting_images/雪村花鈴/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg"
+            "shooting_images/雪村花鈴/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/雪村花鈴/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg",
+            "shooting_images/雪村花鈴/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_4.jpg",
+            "shooting_images/雪村花鈴/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_5.jpg"
           ],
           "highlights": [],
           "private_images": [],
