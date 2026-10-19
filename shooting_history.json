@@ -1,8 +1,8 @@
 {
-  "app_version": "20261019191446",
+  "app_version": "20261019205651",
   "model_count": 239,
-  "updated_at": "2026-10-19T19:14:46+09:00",
-  "updated_display": "2026/10/19 19:14",
+  "updated_at": "2026-10-19T20:56:51+09:00",
+  "updated_display": "2026/10/19 20:56",
   "models": [
     {
       "name": "AOI",
@@ -1205,7 +1205,7 @@
       "name": "二宮和香",
       "source_folder": "二宮和香",
       "display_name": "二宮和香",
-      "profile_image": "",
+      "profile_image": "shooting_images/二宮和香/profile-4be7cef20fef1b07.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-07-25",
       "reading": "にのみやわか",
@@ -1261,7 +1261,15 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/五百木いお/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/五百木いお/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/五百木いお/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/五百木いお/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg",
+            "shooting_images/五百木いお/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_5.jpg",
+            "shooting_images/五百木いお/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_6.jpg",
+            "shooting_images/五百木いお/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_7.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -1977,7 +1985,7 @@
       "name": "吉澤友貴",
       "source_folder": "吉澤友貴",
       "display_name": "吉澤友貴",
-      "profile_image": "",
+      "profile_image": "shooting_images/吉澤友貴/profile-d7f1e3ff0116f226.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "よしざわゆき",
@@ -2038,16 +2046,27 @@
       "name": "和香なつき",
       "source_folder": "〇和香なつき",
       "display_name": "和香なつき",
-      "profile_image": "",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "profile_image": "shooting_images/和香なつき/profile-5c8c12e47fe71176.jpg",
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "わかなつき",
       "attributes": [
         "AV女優"
       ],
       "achievements": [],
       "birthdate": "2000-01-11",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "四ッ谷七里",
@@ -2108,7 +2127,7 @@
       "name": "坂井美桜",
       "source_folder": "坂井美桜",
       "display_name": "坂井美桜",
-      "profile_image": "",
+      "profile_image": "shooting_images/坂井美桜/profile-ee2f977bc24c2c09.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-04",
       "reading": "さかいみお",
@@ -2418,7 +2437,7 @@
       "name": "天宮花南",
       "source_folder": "天宮花南",
       "display_name": "天宮花南",
-      "profile_image": "",
+      "profile_image": "shooting_images/天宮花南/profile-b08d4e7a650c4287.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "あまみやかなん",
@@ -2706,7 +2725,7 @@
       "name": "安達夕莉",
       "source_folder": "安達夕莉",
       "display_name": "安達夕莉",
-      "profile_image": "",
+      "profile_image": "shooting_images/安達夕莉/profile-69107ed896505d19.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "あだちゆうり",
@@ -3003,7 +3022,7 @@
       "name": "小松空",
       "source_folder": "小松空",
       "display_name": "小松空",
-      "profile_image": "",
+      "profile_image": "shooting_images/小松空/profile-404cd036711504e9.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "こまつそら",
@@ -3292,16 +3311,27 @@
       "name": "巴ひかり",
       "source_folder": "〇巴ひかり",
       "display_name": "巴ひかり",
-      "profile_image": "",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "profile_image": "shooting_images/巴ひかり/profile-24594b873d6dd9f4.jpg",
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "ともえひかり",
       "attributes": [
         "AV女優"
       ],
       "achievements": [],
       "birthdate": "2002-12-07",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "市原薫",
@@ -3352,16 +3382,27 @@
       "name": "役野満里奈",
       "source_folder": "〇役野満里奈",
       "display_name": "役野満里奈",
-      "profile_image": "",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "profile_image": "shooting_images/役野満里奈/profile-693c7845d5318507.jpg",
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "やくのまりな",
       "attributes": [
         "AV女優"
       ],
       "achievements": [],
       "birthdate": "2004-07-24",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "心心",
@@ -3586,7 +3627,7 @@
       "name": "新川空",
       "source_folder": "新川空",
       "display_name": "新川空",
-      "profile_image": "",
+      "profile_image": "shooting_images/新川空/profile-b77891f617d3ea8e.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "しんかわそら",
@@ -3988,7 +4029,7 @@
       "name": "松永あかり",
       "source_folder": "松永あかり",
       "display_name": "松永あかり",
-      "profile_image": "",
+      "profile_image": "shooting_images/松永あかり/profile-ee37948f51a886fb.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "まつながあかり",
@@ -4147,7 +4188,7 @@
       "name": "桃園玲奈",
       "source_folder": "桃園玲奈",
       "display_name": "桃園玲奈",
-      "profile_image": "",
+      "profile_image": "shooting_images/桃園玲奈/profile-ae0a355b999fab57.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "ももぞのれな",
@@ -4412,7 +4453,7 @@
       "name": "橋元せな",
       "source_folder": "橋元せな",
       "display_name": "橋元せな",
-      "profile_image": "",
+      "profile_image": "shooting_images/橋元せな/profile-dd29280d214e6163.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-04",
       "reading": "はしもとせな",
@@ -4941,7 +4982,7 @@
       "name": "浜辺やよい",
       "source_folder": "浜辺やよい",
       "display_name": "浜辺やよい",
-      "profile_image": "",
+      "profile_image": "shooting_images/浜辺やよい/profile-856dd09ec8bbc0aa.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "はまべやよい",
@@ -5010,7 +5051,7 @@
       "name": "清宮仁愛",
       "source_folder": "清宮仁愛",
       "display_name": "清宮仁愛",
-      "profile_image": "",
+      "profile_image": "shooting_images/清宮仁愛/profile-206d1acc254ede7a.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "きよみやとあ",
@@ -5290,7 +5331,7 @@
       "name": "白上咲花",
       "source_folder": "白上咲花",
       "display_name": "白上咲花",
-      "profile_image": "",
+      "profile_image": "shooting_images/白上咲花/profile-cb95fad9f1ed954c.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "しらかみえみか",
@@ -5363,7 +5404,7 @@
       "name": "白石純",
       "source_folder": "〇白石純",
       "display_name": "白石純",
-      "profile_image": "",
+      "profile_image": "shooting_images/白石純/profile-52aca2a7bfac62b2.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "しらいしじゅん",
@@ -5451,7 +5492,7 @@
       "name": "白羅冬萌",
       "source_folder": "白羅冬萌",
       "display_name": "白羅冬萌",
-      "profile_image": "",
+      "profile_image": "shooting_images/白羅冬萌/profile-05f3017c1b008190.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-09-30",
       "reading": "しらとも",
@@ -5783,7 +5824,7 @@
       "name": "神喜ミア",
       "source_folder": "神喜ミア",
       "display_name": "神喜ミア",
-      "profile_image": "",
+      "profile_image": "shooting_images/神喜ミア/profile-7b2d77252dc44a6d.jpg",
       "shoot_count": 2,
       "last_shoot": "2026-07-19",
       "reading": "かみきみあ",
@@ -6064,7 +6105,7 @@
       "name": "笹倉杏",
       "source_folder": "笹倉杏",
       "display_name": "笹倉杏",
-      "profile_image": "",
+      "profile_image": "shooting_images/笹倉杏/profile-f3270ce830310458.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-06-28",
       "reading": "ささくらあんず",
@@ -6162,9 +6203,9 @@
       "name": "美丘",
       "source_folder": "〇美丘",
       "display_name": "美丘",
-      "profile_image": "",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "profile_image": "shooting_images/美丘/profile-ba6c50fbb8d71ed3.jpg",
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "みおか",
       "attributes": [
         "AV女優"
@@ -6173,7 +6214,18 @@
         "(美丘さとみ)"
       ],
       "birthdate": "1994-01-17",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "美波那緒",
@@ -6271,7 +6323,7 @@
       "name": "芦名ほのか",
       "source_folder": "芦名ほのか",
       "display_name": "芦名ほのか",
-      "profile_image": "",
+      "profile_image": "shooting_images/芦名ほのか/profile-346a6023ed8d3bf4.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-04",
       "reading": "あしなほのか",
@@ -6406,16 +6458,27 @@
       "name": "葉月なぎさ",
       "source_folder": "〇葉月なぎさ",
       "display_name": "葉月なぎさ",
-      "profile_image": "",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "profile_image": "shooting_images/葉月なぎさ/profile-7c81e59247aa15ff.jpg",
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "はづきなぎさ",
       "attributes": [
         "AV女優"
       ],
       "achievements": [],
       "birthdate": "2000-09-06",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "葵くみ",
@@ -6808,16 +6871,27 @@
       "name": "赤名いと",
       "source_folder": "〇赤名いと",
       "display_name": "赤名いと",
-      "profile_image": "",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "profile_image": "shooting_images/赤名いと/profile-d754e44fdd26f1cf.jpg",
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "あかないと",
       "attributes": [
         "AV女優"
       ],
       "achievements": [],
       "birthdate": "2003-08-31",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "逢坂あい",
