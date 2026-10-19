@@ -1,8 +1,8 @@
 {
-  "app_version": "20261019205651",
+  "app_version": "20261019221556",
   "model_count": 239,
-  "updated_at": "2026-10-19T20:56:51+09:00",
-  "updated_display": "2026/10/19 20:56",
+  "updated_at": "2026-10-19T22:15:56+09:00",
+  "updated_display": "2026/10/19 22:15",
   "models": [
     {
       "name": "AOI",
