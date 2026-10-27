@@ -1,8 +1,8 @@
 {
-  "app_version": "20261021213928",
+  "app_version": "20261027215858",
   "model_count": 239,
-  "updated_at": "2026-10-21T21:39:28+09:00",
-  "updated_display": "2026/10/21 21:39",
+  "updated_at": "2026-10-27T21:58:58+09:00",
+  "updated_display": "2026/10/27 21:58",
   "models": [
     {
       "name": "AOI",
@@ -1821,7 +1821,7 @@
       "name": "南ナナ",
       "source_folder": "〇南ナナ",
       "display_name": "南ナナ",
-      "profile_image": "",
+      "profile_image": "shooting_images/南ナナ/profile-35afae24caea31e2.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "みなみななみ",
@@ -3789,8 +3789,8 @@
       "source_folder": "最上ゆに",
       "display_name": "最上ゆに",
       "profile_image": "",
-      "shoot_count": 1,
-      "last_shoot": "2026-10-04",
+      "shoot_count": 2,
+      "last_shoot": "2026-10-24",
       "reading": "もがみゆに",
       "attributes": [
         "グラビア"
@@ -3798,6 +3798,16 @@
       "achievements": [],
       "birthdate": "2001-08-07",
       "shoots": [
+        {
+          "folder": "20261024_第2回ちもっち撮影会",
+          "date": "2026-10-24",
+          "event": "第2回ちもっち撮影会",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
         {
           "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
           "date": "2026-10-04",
@@ -4854,7 +4864,7 @@
     },
     {
       "name": "池田あゆみ",
-      "source_folder": "〇池田あゆみ",
+      "source_folder": "池田あゆみ",
       "display_name": "池田あゆみ",
       "profile_image": "shooting_images/池田あゆみ/profile-1c4324a5e3cc3ad5.jpg",
       "shoot_count": 1,
@@ -4870,7 +4880,13 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/池田あゆみ/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/池田あゆみ/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/池田あゆみ/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/池田あゆみ/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg",
+            "shooting_images/池田あゆみ/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_5.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -6998,7 +7014,7 @@
     },
     {
       "name": "谷かえ",
-      "source_folder": "〇谷かえ",
+      "source_folder": "谷かえ",
       "display_name": "谷かえ",
       "profile_image": "shooting_images/谷かえ/profile-6e54f9bd2ce9d094.jpg",
       "shoot_count": 2,
@@ -7014,7 +7030,11 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/谷かえ/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/谷かえ/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/谷かえ/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -7101,7 +7121,7 @@
       "name": "道草しおか",
       "source_folder": "〇道草しおか",
       "display_name": "道草しおか",
-      "profile_image": "",
+      "profile_image": "shooting_images/道草しおか/profile-43cf45e22ee78ed2.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "みちくさしおか",
