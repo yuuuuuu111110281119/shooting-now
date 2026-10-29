@@ -1,8 +1,8 @@
 {
-  "app_version": "20261028220029",
+  "app_version": "20261029215644",
   "model_count": 239,
-  "updated_at": "2026-10-28T22:00:29+09:00",
-  "updated_display": "2026/10/28 22:00",
+  "updated_at": "2026-10-29T21:56:44+09:00",
+  "updated_display": "2026/10/29 21:56",
   "models": [
     {
       "name": "AOI",
@@ -2426,48 +2426,93 @@
     },
     {
       "name": "大園みゆう",
-      "source_folder": "〇大園みゆう",
+      "source_folder": "大園みゆう",
       "display_name": "大園みゆう",
-      "profile_image": "",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "profile_image": "shooting_images/大園みゆう/profile-8683069fda89dd83.jpg",
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "おおぞのみゆう",
       "attributes": [
         "グラビア"
       ],
       "achievements": [],
       "birthdate": "1999-09-16",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/大園みゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/大園みゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/大園みゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "大城かえ",
-      "source_folder": "〇大城かえ",
+      "source_folder": "大城かえ",
       "display_name": "大城かえ",
-      "profile_image": "",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "profile_image": "shooting_images/大城かえ/profile-7bfb5ae9add98078.jpg",
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "おおしろかえ",
       "attributes": [
         "グラビア"
       ],
       "achievements": [],
       "birthdate": "#VALUE!",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/大城かえ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/大城かえ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/大城かえ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg",
+            "shooting_images/大城かえ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_4.jpg",
+            "shooting_images/大城かえ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_5.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "大泉凛",
-      "source_folder": "〇大泉凛",
+      "source_folder": "大泉凛",
       "display_name": "大泉凛",
       "profile_image": "",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "おおいずみりん",
       "attributes": [
         "グラビア"
       ],
       "achievements": [],
       "birthdate": "2005-11-12",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [
+            "shooting_images/大泉凛/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "天乃魅音",
@@ -2531,16 +2576,27 @@
       "name": "天羽れい",
       "source_folder": "天羽れい",
       "display_name": "天羽れい",
-      "profile_image": "",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "profile_image": "shooting_images/天羽れい/profile-27a245d64eaff688.jpg",
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "あまはれい",
       "attributes": [
         "グラビア"
       ],
       "achievements": [],
       "birthdate": "",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "天音鈴菜",
@@ -4225,7 +4281,7 @@
     },
     {
       "name": "柚月美美",
-      "source_folder": "〇柚月美美",
+      "source_folder": "柚月美美",
       "display_name": "柚月美美",
       "profile_image": "shooting_images/柚月美美/profile-4d15c213af82f713.jpg",
       "shoot_count": 1,
@@ -4241,7 +4297,12 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/柚月美美/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/柚月美美/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/柚月美美/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/柚月美美/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -4266,7 +4327,7 @@
     },
     {
       "name": "柳胡桃",
-      "source_folder": "〇柳胡桃",
+      "source_folder": "柳胡桃",
       "display_name": "柳胡桃",
       "profile_image": "shooting_images/柳胡桃/profile-9387fe73ce03ae39.jpg",
       "shoot_count": 1,
@@ -4282,7 +4343,12 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/柳胡桃/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/柳胡桃/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/柳胡桃/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/柳胡桃/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -5364,7 +5430,7 @@
       "source_folder": "猫宮かおる",
       "display_name": "猫宮かおる",
       "profile_image": "shooting_images/猫宮かおる/profile-0ccdf5aff8fb9c05.jpg",
-      "shoot_count": 1,
+      "shoot_count": 2,
       "last_shoot": "2026-10-11",
       "reading": "ねこみやかおる",
       "attributes": [
@@ -5383,6 +5449,16 @@
             "shooting_images/猫宮かおる/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
             "shooting_images/猫宮かおる/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg"
           ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -7313,7 +7389,7 @@
     },
     {
       "name": "陽葵ゆめの",
-      "source_folder": "〇陽葵ゆめの",
+      "source_folder": "陽葵ゆめの",
       "display_name": "陽葵ゆめの",
       "profile_image": "shooting_images/陽葵ゆめの/profile-d9503e5c74a95c18.jpg",
       "shoot_count": 1,
@@ -7329,7 +7405,12 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/陽葵ゆめの/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/陽葵ゆめの/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/陽葵ゆめの/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/陽葵ゆめの/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -7647,9 +7728,9 @@
       "name": "鳥飼まりあ",
       "source_folder": "〇鳥飼まりあ",
       "display_name": "鳥飼まりあ",
-      "profile_image": "",
-      "shoot_count": 0,
-      "last_shoot": null,
+      "profile_image": "shooting_images/鳥飼まりあ/profile-9971093b362aee39.jpg",
+      "shoot_count": 1,
+      "last_shoot": "2026-10-04",
       "reading": "とりかいまりあ",
       "attributes": [
         "アイドル"
@@ -7658,7 +7739,18 @@
         "オトメルキュール"
       ],
       "birthdate": "2026-12-24",
-      "shoots": []
+      "shoots": [
+        {
+          "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "date": "2026-10-04",
+          "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
     },
     {
       "name": "鳴海空良",
