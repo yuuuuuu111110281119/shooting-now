@@ -1,9 +1,22 @@
 {
-  "app_version": "20261029215644",
-  "model_count": 239,
-  "updated_at": "2026-10-29T21:56:44+09:00",
-  "updated_display": "2026/10/29 21:56",
+  "app_version": "20261102225245",
+  "model_count": 251,
+  "updated_at": "2026-11-02T22:52:45+09:00",
+  "updated_display": "2026/11/02 22:52",
   "models": [
+    {
+      "name": "ALOHA",
+      "source_folder": "〇ALOHA",
+      "display_name": "ALOHA",
+      "profile_image": "",
+      "shoot_count": 0,
+      "last_shoot": null,
+      "reading": "",
+      "attributes": [],
+      "achievements": [],
+      "birthdate": "",
+      "shoots": []
+    },
     {
       "name": "AOI",
       "source_folder": "AOI(SuperSparkTokyo)",
@@ -118,6 +131,30 @@
           "images": [
             "shooting_images/LiLiCa/20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2/map_1.jpg"
           ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
+    },
+    {
+      "name": "miria",
+      "source_folder": "〇miria",
+      "display_name": "miria",
+      "profile_image": "",
+      "shoot_count": 1,
+      "last_shoot": "2026-11-02",
+      "reading": "",
+      "attributes": [],
+      "achievements": [],
+      "birthdate": "",
+      "shoots": [
+        {
+          "folder": "20261102_ﾌﾚｯｼｭ撮影会_セッション_プロデュース衣装Day",
+          "date": "2026-11-02",
+          "event": "フレッシュ撮影会_セッション_プロデュース衣装Day",
+          "images": [],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -548,6 +585,30 @@
       ]
     },
     {
+      "name": "りこぴん",
+      "source_folder": "〇りこぴん",
+      "display_name": "りこぴん",
+      "profile_image": "",
+      "shoot_count": 1,
+      "last_shoot": "2026-11-01",
+      "reading": "",
+      "attributes": [],
+      "achievements": [],
+      "birthdate": "",
+      "shoots": [
+        {
+          "folder": "20261101_Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "date": "2026-11-01",
+          "event": "Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
+    },
+    {
       "name": "わか",
       "source_folder": "わか",
       "display_name": "わか",
@@ -768,8 +829,8 @@
       "source_folder": "〇七海まり",
       "display_name": "七海まり",
       "profile_image": "",
-      "shoot_count": 2,
-      "last_shoot": "2026-10-11",
+      "shoot_count": 3,
+      "last_shoot": "2026-11-01",
       "reading": "ななみまり",
       "attributes": [
         "グラビア"
@@ -777,6 +838,16 @@
       "achievements": [],
       "birthdate": "",
       "shoots": [
+        {
+          "folder": "20261101_Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "date": "2026-11-01",
+          "event": "Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
         {
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
@@ -1429,12 +1500,12 @@
       "birthdate": "1997-02-05",
       "shoots": [
         {
-          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
-          "event": "フレッシュ撮影会_メタルヒロイン",
+          "event": "フレッシュ撮影会_セッション_メタルヒロイン",
           "images": [
-            "shooting_images/佐藤莉依/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
-            "shooting_images/佐藤莉依/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg"
+            "shooting_images/佐藤莉依/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/佐藤莉依/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -1772,14 +1843,14 @@
           "nude": false
         },
         {
-          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート",
+          "folder": "20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート",
           "date": "2026-08-06",
-          "event": "フレッシュ撮影会_ほろ酔いおうちデート",
+          "event": "フレッシュ撮影会_セッション_ほろ酔いおうちデート",
           "images": [
-            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_1.jpg",
-            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_2.jpg",
-            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_3.jpg",
-            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_4.jpg"
+            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_1.jpg",
+            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_2.jpg",
+            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_3.jpg",
+            "shooting_images/千歳ゆず/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_4.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -2466,7 +2537,7 @@
         "グラビア"
       ],
       "achievements": [],
-      "birthdate": "#VALUE!",
+      "birthdate": "",
       "shoots": [
         {
           "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
@@ -2485,6 +2556,19 @@
           "nude": false
         }
       ]
+    },
+    {
+      "name": "大森舞美",
+      "source_folder": "〇大森舞美",
+      "display_name": "大森舞美",
+      "profile_image": "",
+      "shoot_count": 0,
+      "last_shoot": null,
+      "reading": "",
+      "attributes": [],
+      "achievements": [],
+      "birthdate": "",
+      "shoots": []
     },
     {
       "name": "大泉凛",
@@ -2590,7 +2674,12 @@
           "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
           "date": "2026-10-04",
           "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
-          "images": [],
+          "images": [
+            "shooting_images/天羽れい/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/天羽れい/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/天羽れい/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg",
+            "shooting_images/天羽れい/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_4.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -2600,11 +2689,11 @@
     },
     {
       "name": "天音鈴菜",
-      "source_folder": "天音鈴菜",
+      "source_folder": "〇天音鈴菜",
       "display_name": "天音鈴菜",
       "profile_image": "",
-      "shoot_count": 3,
-      "last_shoot": "2026-09-26",
+      "shoot_count": 4,
+      "last_shoot": "2026-11-02",
       "reading": "あまねすずな",
       "attributes": [
         "グラビア"
@@ -2612,6 +2701,16 @@
       "achievements": [],
       "birthdate": "1997-05-10",
       "shoots": [
+        {
+          "folder": "20261102_ﾌﾚｯｼｭ撮影会_セッション_プロデュース衣装Day",
+          "date": "2026-11-02",
+          "event": "フレッシュ撮影会_セッション_プロデュース衣装Day",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
         {
           "folder": "20260926_ﾌﾚｯｼｭ撮影会_ｺｻﾂ",
           "date": "2026-09-26",
@@ -2627,15 +2726,15 @@
           "nude": false
         },
         {
-          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
-          "event": "フレッシュ撮影会_メタルヒロイン",
+          "event": "フレッシュ撮影会_セッション_メタルヒロイン",
           "images": [
-            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
-            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
-            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
-            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg",
-            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_5.jpg"
+            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
+            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
+            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg",
+            "shooting_images/天音鈴菜/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_5.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -3222,6 +3321,30 @@
       ]
     },
     {
+      "name": "山崎彩菜",
+      "source_folder": "〇山崎彩菜",
+      "display_name": "山崎彩菜",
+      "profile_image": "",
+      "shoot_count": 1,
+      "last_shoot": "2026-11-01",
+      "reading": "",
+      "attributes": [],
+      "achievements": [],
+      "birthdate": "",
+      "shoots": [
+        {
+          "folder": "20261101_Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "date": "2026-11-01",
+          "event": "Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
+    },
+    {
       "name": "山田あい",
       "source_folder": "山田あい",
       "display_name": "山田あい",
@@ -3341,12 +3464,12 @@
       "birthdate": "1992-06-09",
       "shoots": [
         {
-          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート",
+          "folder": "20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート",
           "date": "2026-08-06",
-          "event": "フレッシュ撮影会_ほろ酔いおうちデート",
+          "event": "フレッシュ撮影会_セッション_ほろ酔いおうちデート",
           "images": [
-            "shooting_images/峰尾こずえ/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_1.jpg",
-            "shooting_images/峰尾こずえ/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_2.jpg"
+            "shooting_images/峰尾こずえ/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_1.jpg",
+            "shooting_images/峰尾こずえ/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_2.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -3354,13 +3477,13 @@
           "nude": false
         },
         {
-          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
-          "event": "フレッシュ撮影会_メタルヒロイン",
+          "event": "フレッシュ撮影会_セッション_メタルヒロイン",
           "images": [
-            "shooting_images/峰尾こずえ/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
-            "shooting_images/峰尾こずえ/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
-            "shooting_images/峰尾こずえ/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg"
+            "shooting_images/峰尾こずえ/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/峰尾こずえ/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
+            "shooting_images/峰尾こずえ/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -3694,11 +3817,11 @@
       "birthdate": "",
       "shoots": [
         {
-          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
-          "event": "フレッシュ撮影会_メタルヒロイン",
+          "event": "フレッシュ撮影会_セッション_メタルヒロイン",
           "images": [
-            "shooting_images/愛沢のあ/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg"
+            "shooting_images/愛沢のあ/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -4006,15 +4129,15 @@
           "nude": false
         },
         {
-          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
-          "event": "フレッシュ撮影会_メタルヒロイン",
+          "event": "フレッシュ撮影会_セッション_メタルヒロイン",
           "images": [
-            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
-            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
-            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
-            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg",
-            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_5.jpg"
+            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
+            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
+            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg",
+            "shooting_images/朝比奈りる/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_5.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -4456,15 +4579,15 @@
       "birthdate": "1990-09-20",
       "shoots": [
         {
-          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
-          "event": "フレッシュ撮影会_メタルヒロイン",
+          "event": "フレッシュ撮影会_セッション_メタルヒロイン",
           "images": [
-            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
-            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
-            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
-            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg",
-            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_5.jpg"
+            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
+            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
+            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg",
+            "shooting_images/梅田桃子/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_5.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -5203,6 +5326,30 @@
       ]
     },
     {
+      "name": "涼野柚陽",
+      "source_folder": "〇涼野柚陽",
+      "display_name": "涼野柚陽",
+      "profile_image": "",
+      "shoot_count": 1,
+      "last_shoot": "2026-11-02",
+      "reading": "",
+      "attributes": [],
+      "achievements": [],
+      "birthdate": "",
+      "shoots": [
+        {
+          "folder": "20261102_ﾌﾚｯｼｭ撮影会_セッション_プロデュース衣装Day",
+          "date": "2026-11-02",
+          "event": "フレッシュ撮影会_セッション_プロデュース衣装Day",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
+    },
+    {
       "name": "清宮みいな",
       "source_folder": "清宮みいな",
       "display_name": "清宮みいな",
@@ -5458,7 +5605,11 @@
           "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
           "date": "2026-10-04",
           "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
-          "images": [],
+          "images": [
+            "shooting_images/猫宮かおる/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/猫宮かおる/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/猫宮かおる/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -5519,6 +5670,30 @@
           "images": [
             "shooting_images/甘野ななみ/20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2/map_1.jpg"
           ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
+    },
+    {
+      "name": "田中ひなこ",
+      "source_folder": "〇田中ひなこ",
+      "display_name": "田中ひなこ",
+      "profile_image": "",
+      "shoot_count": 1,
+      "last_shoot": "2026-11-01",
+      "reading": "",
+      "attributes": [],
+      "achievements": [],
+      "birthdate": "",
+      "shoots": [
+        {
+          "folder": "20261101_Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "date": "2026-11-01",
+          "event": "Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "images": [],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -5803,16 +5978,16 @@
       "birthdate": "2002-11-12",
       "shoots": [
         {
-          "folder": "20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション",
+          "folder": "20260831_ﾌﾚｯｼｭ撮影会_セッション_last summer Wセッション",
           "date": "2026-08-31",
-          "event": "フレッシュ撮影会_last summer Wセッション",
+          "event": "フレッシュ撮影会_セッション_last summer Wセッション",
           "images": [
-            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_1.jpg",
-            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_2.jpg",
-            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_3.jpg",
-            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_4.jpg",
-            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_5.jpg",
-            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_6.jpg"
+            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_セッション_last summer Wセッション/map_1.jpg",
+            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_セッション_last summer Wセッション/map_2.jpg",
+            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_セッション_last summer Wセッション/map_3.jpg",
+            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_セッション_last summer Wセッション/map_4.jpg",
+            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_セッション_last summer Wセッション/map_5.jpg",
+            "shooting_images/皆代/20260831_ﾌﾚｯｼｭ撮影会_セッション_last summer Wセッション/map_6.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -5820,16 +5995,16 @@
           "nude": false
         },
         {
-          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート",
+          "folder": "20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート",
           "date": "2026-08-06",
-          "event": "フレッシュ撮影会_ほろ酔いおうちデート",
+          "event": "フレッシュ撮影会_セッション_ほろ酔いおうちデート",
           "images": [
-            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_1.jpg",
-            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_2.jpg",
-            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_3.jpg",
-            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_4.jpg",
-            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_5.jpg",
-            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_6.jpg"
+            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_1.jpg",
+            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_2.jpg",
+            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_3.jpg",
+            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_4.jpg",
+            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_5.jpg",
+            "shooting_images/皆代/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_6.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -5837,16 +6012,16 @@
           "nude": false
         },
         {
-          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
-          "event": "フレッシュ撮影会_メタルヒロイン",
+          "event": "フレッシュ撮影会_セッション_メタルヒロイン",
           "images": [
-            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
-            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
-            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
-            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg",
-            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_5.jpg",
-            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_6.jpg"
+            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
+            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
+            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg",
+            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_5.jpg",
+            "shooting_images/皆代/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_6.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -5947,14 +6122,14 @@
       "birthdate": "1997-06-30",
       "shoots": [
         {
-          "folder": "20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート",
+          "folder": "20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート",
           "date": "2026-08-06",
-          "event": "フレッシュ撮影会_ほろ酔いおうちデート",
+          "event": "フレッシュ撮影会_セッション_ほろ酔いおうちデート",
           "images": [
-            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_1.jpg",
-            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_2.jpg",
-            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_3.jpg",
-            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_ほろ酔いおうちデート/map_4.jpg"
+            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_1.jpg",
+            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_2.jpg",
+            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_3.jpg",
+            "shooting_images/矢沢あい/20260806_ﾌﾚｯｼｭ撮影会_セッション_ほろ酔いおうちデート/map_4.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -6221,11 +6396,11 @@
       "birthdate": "2000-06-07",
       "shoots": [
         {
-          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
-          "event": "フレッシュ撮影会_メタルヒロイン",
+          "event": "フレッシュ撮影会_セッション_メタルヒロイン",
           "images": [
-            "shooting_images/神田舞華/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg"
+            "shooting_images/神田舞華/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -6305,6 +6480,30 @@
             "shooting_images/秋田そな/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_2.jpg",
             "shooting_images/秋田そな/20260719_ﾌﾚｯｼｭ撮影会スペシャル大撮影会 ~城山SUMMER PARTY~ Day2/map_3.jpg"
           ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
+    },
+    {
+      "name": "秦綾",
+      "source_folder": "〇秦綾",
+      "display_name": "秦綾",
+      "profile_image": "",
+      "shoot_count": 1,
+      "last_shoot": "2026-11-01",
+      "reading": "",
+      "attributes": [],
+      "achievements": [],
+      "birthdate": "",
+      "shoots": [
+        {
+          "folder": "20261101_Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "date": "2026-11-01",
+          "event": "Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "images": [],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -6492,11 +6691,11 @@
     },
     {
       "name": "美波那緒",
-      "source_folder": "美波那緒(ｱﾙﾃﾐｽの翼)",
+      "source_folder": "〇美波那緒(ｱﾙﾃﾐｽの翼)",
       "display_name": "美波那緒",
-      "profile_image": "",
-      "shoot_count": 1,
-      "last_shoot": "2026-09-30",
+      "profile_image": "shooting_images/美波那緒/profile-018625973c07bf55.jpg",
+      "shoot_count": 2,
+      "last_shoot": "2026-11-01",
       "reading": "みなみなお",
       "attributes": [
         "アイドル"
@@ -6506,6 +6705,16 @@
       ],
       "birthdate": "2000-10-26",
       "shoots": [
+        {
+          "folder": "20261101_Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "date": "2026-11-01",
+          "event": "Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
         {
           "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
           "date": "2026-09-30",
@@ -6566,14 +6775,14 @@
       "birthdate": "2026-10-10",
       "shoots": [
         {
-          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
-          "event": "フレッシュ撮影会_メタルヒロイン",
+          "event": "フレッシュ撮影会_セッション_メタルヒロイン",
           "images": [
-            "shooting_images/至月みな/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
-            "shooting_images/至月みな/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
-            "shooting_images/至月みな/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
-            "shooting_images/至月みな/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg"
+            "shooting_images/至月みな/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/至月みな/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
+            "shooting_images/至月みな/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg",
+            "shooting_images/至月みな/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_4.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -6614,11 +6823,11 @@
     },
     {
       "name": "花咲楓香",
-      "source_folder": "花咲楓香",
+      "source_folder": "〇花咲楓香",
       "display_name": "花咲楓香",
       "profile_image": "",
-      "shoot_count": 2,
-      "last_shoot": "2026-07-29",
+      "shoot_count": 3,
+      "last_shoot": "2026-11-01",
       "reading": "はなさきふうか",
       "attributes": [
         "グラビア"
@@ -6627,13 +6836,23 @@
       "birthdate": "2001-09-30",
       "shoots": [
         {
-          "folder": "20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ",
+          "folder": "20261101_Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "date": "2026-11-01",
+          "event": "Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
+        {
+          "folder": "20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ",
           "date": "2026-07-29",
-          "event": "フレッシュ撮影会_メタルヒロイン",
+          "event": "フレッシュ撮影会_セッション_メタルヒロイン",
           "images": [
-            "shooting_images/花咲楓香/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
-            "shooting_images/花咲楓香/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
-            "shooting_images/花咲楓香/20260729_ﾌﾚｯｼｭ撮影会_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg"
+            "shooting_images/花咲楓香/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_1.jpg",
+            "shooting_images/花咲楓香/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_2.jpg",
+            "shooting_images/花咲楓香/20260729_ﾌﾚｯｼｭ撮影会_セッション_ﾒﾀﾙﾋﾛｲﾝ/map_3.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -6686,6 +6905,19 @@
           "nude": false
         }
       ]
+    },
+    {
+      "name": "茜紬うた",
+      "source_folder": "〇茜紬うた",
+      "display_name": "茜紬うた",
+      "profile_image": "",
+      "shoot_count": 0,
+      "last_shoot": null,
+      "reading": "",
+      "attributes": [],
+      "achievements": [],
+      "birthdate": "",
+      "shoots": []
     },
     {
       "name": "萌乃ゆき",
@@ -7065,6 +7297,30 @@
       ]
     },
     {
+      "name": "藤白ちらり",
+      "source_folder": "〇藤白ちらり",
+      "display_name": "藤白ちらり",
+      "profile_image": "",
+      "shoot_count": 1,
+      "last_shoot": "2026-11-01",
+      "reading": "",
+      "attributes": [],
+      "achievements": [],
+      "birthdate": "",
+      "shoots": [
+        {
+          "folder": "20261101_Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "date": "2026-11-01",
+          "event": "Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
+    },
+    {
       "name": "西原綾美",
       "source_folder": "西原綾美",
       "display_name": "西原綾美",
@@ -7217,6 +7473,30 @@
       ]
     },
     {
+      "name": "赤枝真琴",
+      "source_folder": "〇赤枝真琴",
+      "display_name": "赤枝真琴",
+      "profile_image": "",
+      "shoot_count": 1,
+      "last_shoot": "2026-11-01",
+      "reading": "",
+      "attributes": [],
+      "achievements": [],
+      "birthdate": "",
+      "shoots": [
+        {
+          "folder": "20261101_Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "date": "2026-11-01",
+          "event": "Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
+    },
+    {
       "name": "逢坂あい",
       "source_folder": "逢坂あい(LOVE C!DER)",
       "display_name": "逢坂あい",
@@ -7281,11 +7561,11 @@
     },
     {
       "name": "酒井穂乃香",
-      "source_folder": "酒井穂乃香",
+      "source_folder": "〇酒井穂乃香",
       "display_name": "酒井穂乃香",
       "profile_image": "",
-      "shoot_count": 1,
-      "last_shoot": "2026-08-31",
+      "shoot_count": 2,
+      "last_shoot": "2026-11-02",
       "reading": "さかいほのか",
       "attributes": [
         "グラビア"
@@ -7296,15 +7576,25 @@
       "birthdate": "1996-08-25",
       "shoots": [
         {
-          "folder": "20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション",
+          "folder": "20261102_ﾌﾚｯｼｭ撮影会_セッション_プロデュース衣装Day",
+          "date": "2026-11-02",
+          "event": "フレッシュ撮影会_セッション_プロデュース衣装Day",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
+        {
+          "folder": "20260831_ﾌﾚｯｼｭ撮影会_セッション_last summer Wセッション",
           "date": "2026-08-31",
-          "event": "フレッシュ撮影会_last summer Wセッション",
+          "event": "フレッシュ撮影会_セッション_last summer Wセッション",
           "images": [
-            "shooting_images/酒井穂乃香/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_1.jpg",
-            "shooting_images/酒井穂乃香/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_2.jpg",
-            "shooting_images/酒井穂乃香/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_3.jpg",
-            "shooting_images/酒井穂乃香/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_4.jpg",
-            "shooting_images/酒井穂乃香/20260831_ﾌﾚｯｼｭ撮影会_last summer Wセッション/map_5.jpg"
+            "shooting_images/酒井穂乃香/20260831_ﾌﾚｯｼｭ撮影会_セッション_last summer Wセッション/map_1.jpg",
+            "shooting_images/酒井穂乃香/20260831_ﾌﾚｯｼｭ撮影会_セッション_last summer Wセッション/map_2.jpg",
+            "shooting_images/酒井穂乃香/20260831_ﾌﾚｯｼｭ撮影会_セッション_last summer Wセッション/map_3.jpg",
+            "shooting_images/酒井穂乃香/20260831_ﾌﾚｯｼｭ撮影会_セッション_last summer Wセッション/map_4.jpg",
+            "shooting_images/酒井穂乃香/20260831_ﾌﾚｯｼｭ撮影会_セッション_last summer Wセッション/map_5.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -7559,6 +7849,30 @@
       ]
     },
     {
+      "name": "青山天南",
+      "source_folder": "〇青山天南",
+      "display_name": "青山天南",
+      "profile_image": "",
+      "shoot_count": 1,
+      "last_shoot": "2026-11-01",
+      "reading": "",
+      "attributes": [],
+      "achievements": [],
+      "birthdate": "",
+      "shoots": [
+        {
+          "folder": "20261101_Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "date": "2026-11-01",
+          "event": "Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
+    },
+    {
       "name": "音羽なぎ",
       "source_folder": "音羽なぎ",
       "display_name": "音羽なぎ",
@@ -7617,11 +7931,11 @@
     },
     {
       "name": "高坂琴水",
-      "source_folder": "高坂琴水(ｷﾌﾟﾘｽﾓﾙﾎｫ)",
+      "source_folder": "〇高坂琴水(ｷﾌﾟﾘｽﾓﾙﾎｫ)",
       "display_name": "高坂琴水",
       "profile_image": "",
-      "shoot_count": 1,
-      "last_shoot": "2026-09-30",
+      "shoot_count": 2,
+      "last_shoot": "2026-11-01",
       "reading": "こうさかことみ",
       "attributes": [
         "アイドル"
@@ -7631,6 +7945,16 @@
       ],
       "birthdate": "2000-03-28",
       "shoots": [
+        {
+          "folder": "20261101_Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "date": "2026-11-01",
+          "event": "Queens of Lily in スタジオサンパティック_東京Lily11周年記念撮影会",
+          "images": [],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        },
         {
           "folder": "20260930_近代麻雀水着祭2026 in 東京サマーランド_DAY2",
           "date": "2026-09-30",
@@ -7726,7 +8050,7 @@
     },
     {
       "name": "鳥飼まりあ",
-      "source_folder": "〇鳥飼まりあ",
+      "source_folder": "鳥飼まりあ",
       "display_name": "鳥飼まりあ",
       "profile_image": "shooting_images/鳥飼まりあ/profile-9971093b362aee39.jpg",
       "shoot_count": 1,
@@ -7744,7 +8068,12 @@
           "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
           "date": "2026-10-04",
           "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
-          "images": [],
+          "images": [
+            "shooting_images/鳥飼まりあ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/鳥飼まりあ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg",
+            "shooting_images/鳥飼まりあ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_3.jpg",
+            "shooting_images/鳥飼まりあ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_4.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
