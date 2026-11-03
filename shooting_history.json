@@ -1,8 +1,8 @@
 {
-  "app_version": "20261103210723",
+  "app_version": "20261103215512",
   "model_count": 251,
-  "updated_at": "2026-11-03T21:07:23+09:00",
-  "updated_display": "2026/11/03 21:07",
+  "updated_at": "2026-11-03T21:55:12+09:00",
+  "updated_display": "2026/11/03 21:55",
   "models": [
     {
       "name": "ALOHA",
@@ -2491,10 +2491,10 @@
       ]
     },
     {
-      "name": "夢見ゆう",
-      "source_folder": "〇夢見ゆう",
-      "display_name": "夢見ゆう",
-      "profile_image": "shooting_images/夢見ゆう/profile-6f6e19bf1ea23a42.jpg",
+      "name": "夢見ゆめ",
+      "source_folder": "夢見ゆめ",
+      "display_name": "夢見ゆめ",
+      "profile_image": "shooting_images/夢見ゆめ/profile-6f6e19bf1ea23a42.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-04",
       "reading": "ゆめみゆめ",
@@ -2509,8 +2509,8 @@
           "date": "2026-10-04",
           "event": "フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
           "images": [
-            "shooting_images/夢見ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
-            "shooting_images/夢見ゆう/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg"
+            "shooting_images/夢見ゆめ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_1.jpg",
+            "shooting_images/夢見ゆめ/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_2.jpg"
           ],
           "highlights": [],
           "private_images": [],
@@ -6661,7 +6661,7 @@
       "name": "立花しき",
       "source_folder": "〇立花しき",
       "display_name": "立花しき",
-      "profile_image": "",
+      "profile_image": "shooting_images/立花しき/profile-5bc56e311206ad07.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "たちばなしき",
@@ -6675,7 +6675,13 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/立花しき/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/立花しき/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/立花しき/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/立花しき/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg",
+            "shooting_images/立花しき/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_5.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -6687,7 +6693,7 @@
       "name": "立花りんか",
       "source_folder": "〇立花りんか",
       "display_name": "立花りんか",
-      "profile_image": "",
+      "profile_image": "shooting_images/立花りんか/profile-18332abb938ce069.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "たちばなりんか",
@@ -6701,7 +6707,12 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/立花りんか/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/立花りんか/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/立花りんか/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/立花りんか/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
