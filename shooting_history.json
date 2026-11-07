@@ -1,8 +1,8 @@
 {
-  "app_version": "20261107162355",
-  "model_count": 251,
-  "updated_at": "2026-11-07T16:23:55+09:00",
-  "updated_display": "2026/11/07 16:23",
+  "app_version": "20261107233919",
+  "model_count": 252,
+  "updated_at": "2026-11-07T23:39:19+09:00",
+  "updated_display": "2026/11/07 23:39",
   "models": [
     {
       "name": "ALOHA",
@@ -4115,6 +4115,37 @@
             "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_7.jpg",
             "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_8.jpg",
             "shooting_images/最上ゆに/20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～/map_9.jpg"
+          ],
+          "highlights": [],
+          "private_images": [],
+          "cheki_count": 0,
+          "nude": false
+        }
+      ]
+    },
+    {
+      "name": "月森なな",
+      "source_folder": "月森なな",
+      "display_name": "月森なな",
+      "profile_image": "shooting_images/月森なな/profile-c5ed2b2eaacb3165.jpg",
+      "shoot_count": 1,
+      "last_shoot": "2026-11-06",
+      "reading": "",
+      "attributes": [],
+      "achievements": [],
+      "birthdate": "",
+      "shoots": [
+        {
+          "folder": "20261106_ﾌﾚｯｼｭ撮影会_セッション_dressy",
+          "date": "2026-11-06",
+          "event": "フレッシュ撮影会_セッション_dressy",
+          "images": [
+            "shooting_images/月森なな/20261106_ﾌﾚｯｼｭ撮影会_セッション_dressy/map_1.jpg",
+            "shooting_images/月森なな/20261106_ﾌﾚｯｼｭ撮影会_セッション_dressy/map_2.jpg",
+            "shooting_images/月森なな/20261106_ﾌﾚｯｼｭ撮影会_セッション_dressy/map_3.jpg",
+            "shooting_images/月森なな/20261106_ﾌﾚｯｼｭ撮影会_セッション_dressy/map_4.jpg",
+            "shooting_images/月森なな/20261106_ﾌﾚｯｼｭ撮影会_セッション_dressy/map_5.jpg",
+            "shooting_images/月森なな/20261106_ﾌﾚｯｼｭ撮影会_セッション_dressy/map_6.jpg"
           ],
           "highlights": [],
           "private_images": [],
