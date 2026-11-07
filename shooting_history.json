@@ -1,8 +1,8 @@
 {
-  "app_version": "20261103215512",
+  "app_version": "20261107162355",
   "model_count": 251,
-  "updated_at": "2026-11-03T21:55:12+09:00",
-  "updated_display": "2026/11/03 21:55",
+  "updated_at": "2026-11-07T16:23:55+09:00",
+  "updated_display": "2026/11/07 16:23",
   "models": [
     {
       "name": "ALOHA",
@@ -2561,7 +2561,7 @@
         "グラビア"
       ],
       "achievements": [],
-      "birthdate": "",
+      "birthdate": "#VALUE!",
       "shoots": [
         {
           "folder": "20261004_フレッシュ撮影会_フレッシュフェス2026 ～The FINAL～",
@@ -7331,7 +7331,7 @@
       "name": "薺かれん",
       "source_folder": "〇薺かれん",
       "display_name": "薺かれん",
-      "profile_image": "",
+      "profile_image": "shooting_images/薺かれん/profile-7e784462d7054c47.jpg",
       "shoot_count": 3,
       "last_shoot": "2026-10-11",
       "reading": "なずなかれん",
@@ -7345,7 +7345,19 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/薺かれん/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/薺かれん/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_10.jpg",
+            "shooting_images/薺かれん/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_11.jpg",
+            "shooting_images/薺かれん/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/薺かれん/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg",
+            "shooting_images/薺かれん/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_4.jpg",
+            "shooting_images/薺かれん/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_5.jpg",
+            "shooting_images/薺かれん/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_6.jpg",
+            "shooting_images/薺かれん/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_7.jpg",
+            "shooting_images/薺かれん/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_8.jpg",
+            "shooting_images/薺かれん/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_9.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
@@ -7794,9 +7806,9 @@
     },
     {
       "name": "鈴川夏禾",
-      "source_folder": "〇鈴川夏禾",
+      "source_folder": "鈴川夏禾",
       "display_name": "鈴川夏禾",
-      "profile_image": "",
+      "profile_image": "shooting_images/鈴川夏禾/profile-b3da300653a7e320.jpg",
       "shoot_count": 1,
       "last_shoot": "2026-10-11",
       "reading": "すずかわなつか",
@@ -7810,7 +7822,11 @@
           "folder": "20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
           "date": "2026-10-11",
           "event": "GスタSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津",
-          "images": [],
+          "images": [
+            "shooting_images/鈴川夏禾/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_1.jpg",
+            "shooting_images/鈴川夏禾/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_2.jpg",
+            "shooting_images/鈴川夏禾/20261011_GｽﾀSPLASH SUMMERすぷさま-Happy Yellow Edition DAY5- in 木更津/map_3.jpg"
+          ],
           "highlights": [],
           "private_images": [],
           "cheki_count": 0,
